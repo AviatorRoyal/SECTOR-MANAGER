@@ -11,6 +11,9 @@ while True:
         try:
             config_file=open(str(con_dir+k+'.con'),'r')
             print('file succesfully recognised')
+            print('Enter 1 to check for required files')
+            print('Enter 2 to start building new files')
+            print('Enter 3 to go back')
         except:
             print('File not found')
     elif ch1=='2':
