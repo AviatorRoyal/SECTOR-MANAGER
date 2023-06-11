@@ -1,0 +1,79 @@
+ASRFastKeys	1	\VABF\ASR\VABB-GND.asr
+ASRFastKeys	2	\VABF\ASR\VAAH-GND.asr
+ASRFastKeys	3	\VABF\ASR\VAPO-GND.asr
+ASRFastKeys	4	\VABF\ASR\VANP-GND.asr
+ASRFastKeys	5	\VABF\ASR\VABP-GND.asr
+ASRFastKeys	6	\VABF\ASR\VAID-GND.asr
+ASRFastKeys	7	\VABF\ASR\VASU-GND.asr
+ASRFastKeys	8	\VABF\ASR\VAAU-GND.asr
+ASRFastKeys	9	\VABF\ASR\VAUD-GND.asr
+Plugins	Plugin0	\VABF\Plugins\AFVEuroscopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin1	\VABF\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin2	\VABF\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	SMR radar display
+Plugins	Plugin3	\VABF\Plugins\vSMR\vSMR.dll
+Plugins	Plugin3Display0	SMR radar display
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	Settingsfile	\VABF\Settings\General-GND.txt
+Settings	SettingsfileARR	\VABF\Settings\ArrivalList.txt
+Settings	SettingsfileCONFLICT	\VABF\Settings\ConflictList.txt
+Settings	SettingsfileDEP	\VABF\Settings\DepartureList.txt
+Settings	SettingsfileFP	\VABF\Settings\FlightPlanList.txt
+Settings	SettingsfilePILOTING	\VABF\Settings\PilotingList.txt
+Settings	SettingsfilePLUGINS	\VABF\Settings\Plugin.txt
+Settings	SettingsfilePROFILE	\VABF\Settings\Profiles.txt
+Settings	SettingsfileSCREEN	\VABF\Settings\Screen-GND.txt
+Settings	SettingsfileSEL	\VABF\Settings\SectorExitList.txt
+Settings	SettingsfileSIL	\VABF\Settings\SectorInboundList-GND.txt
+Settings	SettingsfileSYMBOLOGY	\VABF\Settings\Symbology.txt
+Settings	SettingsfileTAGS	\VABF\Settings\Tags.txt
+Settings	SettingsfileVCCS	\VABF\Settings\VCCS.txt
+Settings	SettingsfileVOICE	\VABF\Settings\VoiceChannels.txt
+Settings	aircraft	\VABF\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\VABF\ICAO\ICAO_Airlines.txt
+Settings	airportcoords	\VABF\NavData\icao.txt
+Settings	airports	\VABF\ICAO\ICAO_Airports.txt
+Settings	airways	\VABF\NavData\airway.txt
+Settings	alias	\VABF\Alias\alias.txt
+Settings	sector	\VABF-Mumbai-Install_20210708113747-210601-0001.sct
+Sounds	Sound0	\VABF\Sounds\handoff_request.wav
+Sounds	Sound1	\VABF\Sounds\handoff_accept.wav
+Sounds	Sound10	\VABF\Sounds\disconnected.wav
+Sounds	Sound11	\VABF\Sounds\ongoing_request.wav
+Sounds	Sound12	\VABF\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\VABF\Sounds\ongoing_refused.wav
+Sounds	Sound14	\VABF\Sounds\ongoing_manual.wav
+Sounds	Sound15	\VABF\Sounds\new_atis.wav
+Sounds	Sound16	\VABF\Sounds\handoff_refused.wav
+Sounds	Sound17	\VABF\Sounds\pointout.wav
+Sounds	Sound18	\VABF\Sounds\startup.wav
+Sounds	Sound2	\VABF\Sounds\conflict_alert.wav
+Sounds	Sound3	\VABF\Sounds\radio_message.wav
+Sounds	Sound4	\VABF\Sounds\private_message.wav
+Sounds	Sound5	\VABF\Sounds\atc_message.wav
+Sounds	Sound6	\VABF\Sounds\broadcast_message.wav
+Sounds	Sound7	\VABF\Sounds\landline_request.wav
+Sounds	Sound8	\VABF\Sounds\supervisor_message.wav
+Sounds	Sound9	\VABF\Sounds\connected.wav
+LastSession	connecttype	0
+LastSession	callsign	VABB_GND
+LastSession	facility	3
+LastSession	rating	1
+LastSession	tovatsim	1
+LastSession	atis2	"Mumbai Ground"
+LastSession	atis3	State Callsign, Position, And Aircraft Type On Initial Contact.
+LastSession	range	20
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+RecentFiles	Recent1	\VABF\ASR\VABB-GND.asr
+LastSession	atis_freq4	118000
+LastSession	realname	Ramanuj Agarwal
+LastSession	certificate	1568748
+LastSession	password	aYrkJWb4rQKn
+LastSession	server	AUTOMATIC
+LastSession	atis4	India vACC | VATSIM West Asia | More Information -> indiavacc.org
+RecentFiles	Recent2	\VABF\ASR\Master-GND.asr
+RecentFiles	Recent3	\VABF\ASR\Master.asr
+RecentFiles	Recent4	\VABF\ASR\VAAH-GND.asr

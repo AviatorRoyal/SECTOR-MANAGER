@@ -1,0 +1,28 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VARK:name
+Airports:VARK:symbol
+Free Text:VARK GroundLayout\1:freetext
+Free Text:VARK GroundLayout\2:freetext
+Geo:VARK Groundlayout:
+Regions:VARK GroundLayout:polygon
+VORs:RKT:frequency
+VORs:RKT:name
+VORs:RKT:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:40.00000
+TAGFAMILY:India vACC
+WINDOWAREA:22.305201:70.768536:22.315581:70.789662
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VARK

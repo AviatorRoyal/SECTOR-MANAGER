@@ -1,0 +1,36 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VASU:name
+Airports:VASU:symbol
+Free Text:VASU GroundLayout\1:freetext
+Free Text:VASU GroundLayout\2:freetext
+Free Text:VASU GroundLayout\2A:freetext
+Free Text:VASU GroundLayout\3:freetext
+Free Text:VASU GroundLayout\3A:freetext
+Free Text:VASU GroundLayout\4:freetext
+Free Text:VASU GroundLayout\5:freetext
+Free Text:VASU GroundLayout\A:freetext
+Free Text:VASU GroundLayout\B:freetext
+Free Text:VASU GroundLayout\IPB:freetext
+Geo:VASU Groundlayout:
+Regions:VASU GroundLayout:polygon
+VORs:SUR:frequency
+VORs:SUR:name
+VORs:SUR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:45.00000
+TAGFAMILY:India vACC
+WINDOWAREA:21.108561:72.725463:21.124780:72.758472
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VASU

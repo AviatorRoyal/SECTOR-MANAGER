@@ -1,0 +1,61 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAPO:name
+Airports:VAPO:symbol
+Free Text:VAPO GroundLayout\1:freetext
+Free Text:VAPO GroundLayout\10:freetext
+Free Text:VAPO GroundLayout\11:freetext
+Free Text:VAPO GroundLayout\2:freetext
+Free Text:VAPO GroundLayout\3:freetext
+Free Text:VAPO GroundLayout\4:freetext
+Free Text:VAPO GroundLayout\5:freetext
+Free Text:VAPO GroundLayout\6:freetext
+Free Text:VAPO GroundLayout\7:freetext
+Free Text:VAPO GroundLayout\8:freetext
+Free Text:VAPO GroundLayout\9:freetext
+Free Text:VAPO GroundLayout\A1:freetext
+Free Text:VAPO GroundLayout\C1:freetext
+Free Text:VAPO GroundLayout\C2:freetext
+Free Text:VAPO GroundLayout\D1:freetext
+Free Text:VAPO GroundLayout\D2:freetext
+Free Text:VAPO GroundLayout\D3:freetext
+Free Text:VAPO GroundLayout\E1:freetext
+Free Text:VAPO GroundLayout\E2:freetext
+Free Text:VAPO GroundLayout\F:freetext
+Free Text:VAPO GroundLayout\G:freetext
+Free Text:VAPO GroundLayout\H:freetext
+Free Text:VAPO GroundLayout\H:freetext
+Free Text:VAPO GroundLayout\H1:freetext
+Free Text:VAPO GroundLayout\H2:freetext
+Free Text:VAPO GroundLayout\J:freetext
+Free Text:VAPO GroundLayout\K:freetext
+Free Text:VAPO GroundLayout\K:freetext
+Free Text:VAPO GroundLayout\M:freetext
+Free Text:VAPO GroundLayout\N:freetext
+Free Text:VAPO GroundLayout\P:freetext
+Free Text:VAPO GroundLayout\P1:freetext
+Free Text:VAPO GroundLayout\P2:freetext
+Free Text:VAPO GroundLayout\R1:freetext
+Free Text:VAPO GroundLayout\R2:freetext
+Geo:VAPO Groundlayout:
+Regions:VAPO GroundLayout:polygon
+VORs:PPN:frequency
+VORs:PPN:name
+VORs:PPN:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:India vACC
+WINDOWAREA:18.573569:73.903371:18.588942:73.934657
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAPO

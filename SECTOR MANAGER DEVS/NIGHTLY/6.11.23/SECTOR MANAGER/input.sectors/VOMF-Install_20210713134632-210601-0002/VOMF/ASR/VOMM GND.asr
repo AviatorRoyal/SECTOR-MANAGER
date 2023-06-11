@@ -1,0 +1,186 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:E:\VOMF-Install_20210713134632-210601-0002\VOMF-Install_20210713134632-210601-0002.sct
+SECTORTITLE:VOMF-Install_20210713134632-210601-0002.sct
+Airports:VOMM:name
+Airports:VOMM:symbol
+Free Text:VOMM GroundLayout\07:freetext
+Free Text:VOMM GroundLayout\1:freetext
+Free Text:VOMM GroundLayout\10:freetext
+Free Text:VOMM GroundLayout\101:freetext
+Free Text:VOMM GroundLayout\102:freetext
+Free Text:VOMM GroundLayout\103:freetext
+Free Text:VOMM GroundLayout\104:freetext
+Free Text:VOMM GroundLayout\12:freetext
+Free Text:VOMM GroundLayout\19:freetext
+Free Text:VOMM GroundLayout\2:freetext
+Free Text:VOMM GroundLayout\20:freetext
+Free Text:VOMM GroundLayout\21:freetext
+Free Text:VOMM GroundLayout\22:freetext
+Free Text:VOMM GroundLayout\23:freetext
+Free Text:VOMM GroundLayout\24:freetext
+Free Text:VOMM GroundLayout\25:freetext
+Free Text:VOMM GroundLayout\25:freetext
+Free Text:VOMM GroundLayout\26:freetext
+Free Text:VOMM GroundLayout\27:freetext
+Free Text:VOMM GroundLayout\28:freetext
+Free Text:VOMM GroundLayout\29:freetext
+Free Text:VOMM GroundLayout\3:freetext
+Free Text:VOMM GroundLayout\30:freetext
+Free Text:VOMM GroundLayout\30:freetext
+Free Text:VOMM GroundLayout\31:freetext
+Free Text:VOMM GroundLayout\32:freetext
+Free Text:VOMM GroundLayout\33:freetext
+Free Text:VOMM GroundLayout\34:freetext
+Free Text:VOMM GroundLayout\35:freetext
+Free Text:VOMM GroundLayout\36:freetext
+Free Text:VOMM GroundLayout\4:freetext
+Free Text:VOMM GroundLayout\43:freetext
+Free Text:VOMM GroundLayout\43L:freetext
+Free Text:VOMM GroundLayout\43R:freetext
+Free Text:VOMM GroundLayout\44:freetext
+Free Text:VOMM GroundLayout\44L:freetext
+Free Text:VOMM GroundLayout\44R:freetext
+Free Text:VOMM GroundLayout\45:freetext
+Free Text:VOMM GroundLayout\45L:freetext
+Free Text:VOMM GroundLayout\46:freetext
+Free Text:VOMM GroundLayout\47:freetext
+Free Text:VOMM GroundLayout\48:freetext
+Free Text:VOMM GroundLayout\49:freetext
+Free Text:VOMM GroundLayout\5:freetext
+Free Text:VOMM GroundLayout\50:freetext
+Free Text:VOMM GroundLayout\50R:freetext
+Free Text:VOMM GroundLayout\51:freetext
+Free Text:VOMM GroundLayout\52:freetext
+Free Text:VOMM GroundLayout\53:freetext
+Free Text:VOMM GroundLayout\54:freetext
+Free Text:VOMM GroundLayout\55:freetext
+Free Text:VOMM GroundLayout\56:freetext
+Free Text:VOMM GroundLayout\57:freetext
+Free Text:VOMM GroundLayout\6:freetext
+Free Text:VOMM GroundLayout\61:freetext
+Free Text:VOMM GroundLayout\62:freetext
+Free Text:VOMM GroundLayout\63:freetext
+Free Text:VOMM GroundLayout\64:freetext
+Free Text:VOMM GroundLayout\65:freetext
+Free Text:VOMM GroundLayout\66:freetext
+Free Text:VOMM GroundLayout\67:freetext
+Free Text:VOMM GroundLayout\68:freetext
+Free Text:VOMM GroundLayout\69:freetext
+Free Text:VOMM GroundLayout\70:freetext
+Free Text:VOMM GroundLayout\71:freetext
+Free Text:VOMM GroundLayout\72:freetext
+Free Text:VOMM GroundLayout\73:freetext
+Free Text:VOMM GroundLayout\74:freetext
+Free Text:VOMM GroundLayout\75:freetext
+Free Text:VOMM GroundLayout\76:freetext
+Free Text:VOMM GroundLayout\77:freetext
+Free Text:VOMM GroundLayout\78:freetext
+Free Text:VOMM GroundLayout\79:freetext
+Free Text:VOMM GroundLayout\8:freetext
+Free Text:VOMM GroundLayout\80:freetext
+Free Text:VOMM GroundLayout\81:freetext
+Free Text:VOMM GroundLayout\82:freetext
+Free Text:VOMM GroundLayout\83:freetext
+Free Text:VOMM GroundLayout\84:freetext
+Free Text:VOMM GroundLayout\85:freetext
+Free Text:VOMM GroundLayout\86:freetext
+Free Text:VOMM GroundLayout\87:freetext
+Free Text:VOMM GroundLayout\88:freetext
+Free Text:VOMM GroundLayout\89:freetext
+Free Text:VOMM GroundLayout\9:freetext
+Free Text:VOMM GroundLayout\90:freetext
+Free Text:VOMM GroundLayout\91:freetext
+Free Text:VOMM GroundLayout\92:freetext
+Free Text:VOMM GroundLayout\93:freetext
+Free Text:VOMM GroundLayout\94:freetext
+Free Text:VOMM GroundLayout\95:freetext
+Free Text:VOMM GroundLayout\96:freetext
+Free Text:VOMM GroundLayout\97:freetext
+Free Text:VOMM GroundLayout\98:freetext
+Free Text:VOMM GroundLayout\99:freetext
+Free Text:VOMM GroundLayout\A:freetext
+Free Text:VOMM GroundLayout\B:freetext
+Free Text:VOMM GroundLayout\B:freetext
+Free Text:VOMM GroundLayout\B:freetext
+Free Text:VOMM GroundLayout\B:freetext
+Free Text:VOMM GroundLayout\C:freetext
+Free Text:VOMM GroundLayout\C1:freetext
+Free Text:VOMM GroundLayout\D:freetext
+Free Text:VOMM GroundLayout\E:freetext
+Free Text:VOMM GroundLayout\F:freetext
+Free Text:VOMM GroundLayout\G:freetext
+Free Text:VOMM GroundLayout\H:freetext
+Free Text:VOMM GroundLayout\H:freetext
+Free Text:VOMM GroundLayout\H:freetext
+Free Text:VOMM GroundLayout\K:freetext
+Free Text:VOMM GroundLayout\L1:freetext
+Free Text:VOMM GroundLayout\L2:freetext
+Free Text:VOMM GroundLayout\L3:freetext
+Free Text:VOMM GroundLayout\M:freetext
+Free Text:VOMM GroundLayout\N:freetext
+Free Text:VOMM GroundLayout\N:freetext
+Free Text:VOMM GroundLayout\N:freetext
+Free Text:VOMM GroundLayout\N:freetext
+Free Text:VOMM GroundLayout\N1:freetext
+Free Text:VOMM GroundLayout\P:freetext
+Free Text:VOMM GroundLayout\P:freetext
+Free Text:VOMM GroundLayout\P:freetext
+Free Text:VOMM GroundLayout\Q:freetext
+Free Text:VOMM GroundLayout\Q:freetext
+Free Text:VOMM GroundLayout\Q:freetext
+Free Text:VOMM GroundLayout\Q2:freetext
+Free Text:VOMM GroundLayout\Q2:freetext
+Free Text:VOMM GroundLayout\R:freetext
+Free Text:VOMM GroundLayout\R:freetext
+Free Text:VOMM GroundLayout\R1:freetext
+Free Text:VOMM GroundLayout\R1:freetext
+Free Text:VOMM GroundLayout\T1:freetext
+Free Text:VOMM GroundLayout\T1:freetext
+Free Text:VOMM GroundLayout\T2:freetext
+Free Text:VOMM GroundLayout\T3:freetext
+Free Text:VOMM GroundLayout\T4:freetext
+Geo:VOMM Groundlayout:
+Regions:VOMM GroundLayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:22.00000
+TAGFAMILY:India vACC
+WINDOWAREA:12.981983:80.136332:13.012008:80.196233
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOMM
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,306 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:E:\VOMF-Install_20210713134632-210601-0002\VOMF-Install_20210713134632-210601-0002.sct
+SECTORTITLE:VOMF-Install_20210713134632-210601-0002.sct
+Airports:VOBL:name
+Airports:VOBL:symbol
+Free Text:VOBL GroundLayout\1:freetext
+Free Text:VOBL GroundLayout\10:freetext
+Free Text:VOBL GroundLayout\100:freetext
+Free Text:VOBL GroundLayout\101:freetext
+Free Text:VOBL GroundLayout\102:freetext
+Free Text:VOBL GroundLayout\103:freetext
+Free Text:VOBL GroundLayout\104:freetext
+Free Text:VOBL GroundLayout\105:freetext
+Free Text:VOBL GroundLayout\106:freetext
+Free Text:VOBL GroundLayout\107:freetext
+Free Text:VOBL GroundLayout\108:freetext
+Free Text:VOBL GroundLayout\109:freetext
+Free Text:VOBL GroundLayout\11:freetext
+Free Text:VOBL GroundLayout\110:freetext
+Free Text:VOBL GroundLayout\111:freetext
+Free Text:VOBL GroundLayout\112:freetext
+Free Text:VOBL GroundLayout\113:freetext
+Free Text:VOBL GroundLayout\114:freetext
+Free Text:VOBL GroundLayout\115:freetext
+Free Text:VOBL GroundLayout\116:freetext
+Free Text:VOBL GroundLayout\117:freetext
+Free Text:VOBL GroundLayout\118:freetext
+Free Text:VOBL GroundLayout\119:freetext
+Free Text:VOBL GroundLayout\12:freetext
+Free Text:VOBL GroundLayout\120:freetext
+Free Text:VOBL GroundLayout\121:freetext
+Free Text:VOBL GroundLayout\122:freetext
+Free Text:VOBL GroundLayout\123:freetext
+Free Text:VOBL GroundLayout\13:freetext
+Free Text:VOBL GroundLayout\14:freetext
+Free Text:VOBL GroundLayout\15:freetext
+Free Text:VOBL GroundLayout\16:freetext
+Free Text:VOBL GroundLayout\17:freetext
+Free Text:VOBL GroundLayout\18:freetext
+Free Text:VOBL GroundLayout\19:freetext
+Free Text:VOBL GroundLayout\2:freetext
+Free Text:VOBL GroundLayout\20:freetext
+Free Text:VOBL GroundLayout\21:freetext
+Free Text:VOBL GroundLayout\22:freetext
+Free Text:VOBL GroundLayout\23:freetext
+Free Text:VOBL GroundLayout\24:freetext
+Free Text:VOBL GroundLayout\25:freetext
+Free Text:VOBL GroundLayout\26:freetext
+Free Text:VOBL GroundLayout\27:freetext
+Free Text:VOBL GroundLayout\28:freetext
+Free Text:VOBL GroundLayout\29:freetext
+Free Text:VOBL GroundLayout\3:freetext
+Free Text:VOBL GroundLayout\30:freetext
+Free Text:VOBL GroundLayout\31:freetext
+Free Text:VOBL GroundLayout\32:freetext
+Free Text:VOBL GroundLayout\33:freetext
+Free Text:VOBL GroundLayout\33A:freetext
+Free Text:VOBL GroundLayout\35/34:freetext
+Free Text:VOBL GroundLayout\36:freetext
+Free Text:VOBL GroundLayout\37:freetext
+Free Text:VOBL GroundLayout\38:freetext
+Free Text:VOBL GroundLayout\39:freetext
+Free Text:VOBL GroundLayout\4:freetext
+Free Text:VOBL GroundLayout\40:freetext
+Free Text:VOBL GroundLayout\41:freetext
+Free Text:VOBL GroundLayout\42:freetext
+Free Text:VOBL GroundLayout\43:freetext
+Free Text:VOBL GroundLayout\45:freetext
+Free Text:VOBL GroundLayout\47:freetext
+Free Text:VOBL GroundLayout\49:freetext
+Free Text:VOBL GroundLayout\5:freetext
+Free Text:VOBL GroundLayout\501:freetext
+Free Text:VOBL GroundLayout\502:freetext
+Free Text:VOBL GroundLayout\503:freetext
+Free Text:VOBL GroundLayout\504:freetext
+Free Text:VOBL GroundLayout\505:freetext
+Free Text:VOBL GroundLayout\506:freetext
+Free Text:VOBL GroundLayout\507:freetext
+Free Text:VOBL GroundLayout\508:freetext
+Free Text:VOBL GroundLayout\509:freetext
+Free Text:VOBL GroundLayout\51:freetext
+Free Text:VOBL GroundLayout\510:freetext
+Free Text:VOBL GroundLayout\51W:freetext
+Free Text:VOBL GroundLayout\52:freetext
+Free Text:VOBL GroundLayout\52W:freetext
+Free Text:VOBL GroundLayout\53:freetext
+Free Text:VOBL GroundLayout\53W:freetext
+Free Text:VOBL GroundLayout\54:freetext
+Free Text:VOBL GroundLayout\54W:freetext
+Free Text:VOBL GroundLayout\55:freetext
+Free Text:VOBL GroundLayout\56:freetext
+Free Text:VOBL GroundLayout\57:freetext
+Free Text:VOBL GroundLayout\58:freetext
+Free Text:VOBL GroundLayout\59/60:freetext
+Free Text:VOBL GroundLayout\6:freetext
+Free Text:VOBL GroundLayout\61:freetext
+Free Text:VOBL GroundLayout\62:freetext
+Free Text:VOBL GroundLayout\63:freetext
+Free Text:VOBL GroundLayout\64/65:freetext
+Free Text:VOBL GroundLayout\66:freetext
+Free Text:VOBL GroundLayout\67:freetext
+Free Text:VOBL GroundLayout\68:freetext
+Free Text:VOBL GroundLayout\69:freetext
+Free Text:VOBL GroundLayout\69A:freetext
+Free Text:VOBL GroundLayout\7:freetext
+Free Text:VOBL GroundLayout\70:freetext
+Free Text:VOBL GroundLayout\71:freetext
+Free Text:VOBL GroundLayout\71A:freetext
+Free Text:VOBL GroundLayout\72:freetext
+Free Text:VOBL GroundLayout\72A:freetext
+Free Text:VOBL GroundLayout\73:freetext
+Free Text:VOBL GroundLayout\74:freetext
+Free Text:VOBL GroundLayout\74A:freetext
+Free Text:VOBL GroundLayout\75:freetext
+Free Text:VOBL GroundLayout\75A:freetext
+Free Text:VOBL GroundLayout\76:freetext
+Free Text:VOBL GroundLayout\77:freetext
+Free Text:VOBL GroundLayout\77A:freetext
+Free Text:VOBL GroundLayout\78:freetext
+Free Text:VOBL GroundLayout\78A:freetext
+Free Text:VOBL GroundLayout\79:freetext
+Free Text:VOBL GroundLayout\8:freetext
+Free Text:VOBL GroundLayout\80:freetext
+Free Text:VOBL GroundLayout\80A:freetext
+Free Text:VOBL GroundLayout\81:freetext
+Free Text:VOBL GroundLayout\81A:freetext
+Free Text:VOBL GroundLayout\82:freetext
+Free Text:VOBL GroundLayout\83:freetext
+Free Text:VOBL GroundLayout\83A:freetext
+Free Text:VOBL GroundLayout\84:freetext
+Free Text:VOBL GroundLayout\84A:freetext
+Free Text:VOBL GroundLayout\85:freetext
+Free Text:VOBL GroundLayout\86:freetext
+Free Text:VOBL GroundLayout\86A:freetext
+Free Text:VOBL GroundLayout\9:freetext
+Free Text:VOBL GroundLayout\90:freetext
+Free Text:VOBL GroundLayout\91:freetext
+Free Text:VOBL GroundLayout\92:freetext
+Free Text:VOBL GroundLayout\93:freetext
+Free Text:VOBL GroundLayout\94:freetext
+Free Text:VOBL GroundLayout\95:freetext
+Free Text:VOBL GroundLayout\96:freetext
+Free Text:VOBL GroundLayout\97:freetext
+Free Text:VOBL GroundLayout\98:freetext
+Free Text:VOBL GroundLayout\99:freetext
+Free Text:VOBL GroundLayout\A:freetext
+Free Text:VOBL GroundLayout\A:freetext
+Free Text:VOBL GroundLayout\A:freetext
+Free Text:VOBL GroundLayout\A:freetext
+Free Text:VOBL GroundLayout\A:freetext
+Free Text:VOBL GroundLayout\A1/27R:freetext
+Free Text:VOBL GroundLayout\A4:freetext
+Free Text:VOBL GroundLayout\A5:freetext
+Free Text:VOBL GroundLayout\A6:freetext
+Free Text:VOBL GroundLayout\A7:freetext
+Free Text:VOBL GroundLayout\A8:freetext
+Free Text:VOBL GroundLayout\A9:freetext
+Free Text:VOBL GroundLayout\B:freetext
+Free Text:VOBL GroundLayout\B:freetext
+Free Text:VOBL GroundLayout\B1:freetext
+Free Text:VOBL GroundLayout\B2:freetext
+Free Text:VOBL GroundLayout\B2:freetext
+Free Text:VOBL GroundLayout\B3:freetext
+Free Text:VOBL GroundLayout\B4:freetext
+Free Text:VOBL GroundLayout\C:freetext
+Free Text:VOBL GroundLayout\C:freetext
+Free Text:VOBL GroundLayout\D:freetext
+Free Text:VOBL GroundLayout\D:freetext
+Free Text:VOBL GroundLayout\F:freetext
+Free Text:VOBL GroundLayout\G:freetext
+Free Text:VOBL GroundLayout\G:freetext
+Free Text:VOBL GroundLayout\G:freetext
+Free Text:VOBL GroundLayout\G:freetext
+Free Text:VOBL GroundLayout\G1:freetext
+Free Text:VOBL GroundLayout\G4:freetext
+Free Text:VOBL GroundLayout\H:freetext
+Free Text:VOBL GroundLayout\H:freetext
+Free Text:VOBL GroundLayout\H:freetext
+Free Text:VOBL GroundLayout\H:freetext
+Free Text:VOBL GroundLayout\H1/27L:freetext
+Free Text:VOBL GroundLayout\H10/09R:freetext
+Free Text:VOBL GroundLayout\H2:freetext
+Free Text:VOBL GroundLayout\H3:freetext
+Free Text:VOBL GroundLayout\H4:freetext
+Free Text:VOBL GroundLayout\H5:freetext
+Free Text:VOBL GroundLayout\H6:freetext
+Free Text:VOBL GroundLayout\H7:freetext
+Free Text:VOBL GroundLayout\H8:freetext
+Free Text:VOBL GroundLayout\H9:freetext
+Free Text:VOBL GroundLayout\J:freetext
+Free Text:VOBL GroundLayout\J:freetext
+Free Text:VOBL GroundLayout\K:freetext
+Free Text:VOBL GroundLayout\L1:freetext
+Free Text:VOBL GroundLayout\L1:freetext
+Free Text:VOBL GroundLayout\L1:freetext
+Free Text:VOBL GroundLayout\L1:freetext
+Free Text:VOBL GroundLayout\L1:freetext
+Free Text:VOBL GroundLayout\L2:freetext
+Free Text:VOBL GroundLayout\L2:freetext
+Free Text:VOBL GroundLayout\L2:freetext
+Free Text:VOBL GroundLayout\L2:freetext
+Free Text:VOBL GroundLayout\L2:freetext
+Free Text:VOBL GroundLayout\L3:freetext
+Free Text:VOBL GroundLayout\L3:freetext
+Free Text:VOBL GroundLayout\L3:freetext
+Free Text:VOBL GroundLayout\L3:freetext
+Free Text:VOBL GroundLayout\L3:freetext
+Free Text:VOBL GroundLayout\L4:freetext
+Free Text:VOBL GroundLayout\L4:freetext
+Free Text:VOBL GroundLayout\L4:freetext
+Free Text:VOBL GroundLayout\M:freetext
+Free Text:VOBL GroundLayout\N:freetext
+Free Text:VOBL GroundLayout\N:freetext
+Free Text:VOBL GroundLayout\N:freetext
+Free Text:VOBL GroundLayout\N1:freetext
+Free Text:VOBL GroundLayout\N1:freetext
+Free Text:VOBL GroundLayout\N2:freetext
+Free Text:VOBL GroundLayout\P:freetext
+Free Text:VOBL GroundLayout\P:freetext
+Free Text:VOBL GroundLayout\P:freetext
+Free Text:VOBL GroundLayout\P:freetext
+Free Text:VOBL GroundLayout\P1:freetext
+Free Text:VOBL GroundLayout\Q:freetext
+Free Text:VOBL GroundLayout\Q:freetext
+Free Text:VOBL GroundLayout\Q:freetext
+Free Text:VOBL GroundLayout\R:freetext
+Free Text:VOBL GroundLayout\S:freetext
+Free Text:VOBL GroundLayout\V69:freetext
+Free Text:VOBL GroundLayout\V70:freetext
+Geo:VOBL Groundlayout:
+Regions:VOBL GroundLayout:polygon
+Runways:VOBL 09L-27R:centerline
+Runways:VOBL 09L-27R:extended centerline 1
+Runways:VOBL 09L-27R:extended centerline 1 left base
+Runways:VOBL 09L-27R:extended centerline 1 left ticks
+Runways:VOBL 09L-27R:extended centerline 1 left vectoring
+Runways:VOBL 09L-27R:extended centerline 1 right base
+Runways:VOBL 09L-27R:extended centerline 1 right ticks
+Runways:VOBL 09L-27R:extended centerline 1 right vectoring
+Runways:VOBL 09L-27R:extended centerline 2
+Runways:VOBL 09L-27R:extended centerline 2 left base
+Runways:VOBL 09L-27R:extended centerline 2 left ticks
+Runways:VOBL 09L-27R:extended centerline 2 left vectoring
+Runways:VOBL 09L-27R:extended centerline 2 right base
+Runways:VOBL 09L-27R:extended centerline 2 right ticks
+Runways:VOBL 09L-27R:extended centerline 2 right vectoring
+Runways:VOBL 09L-27R:name
+Runways:VOBL 09R-27L:centerline
+Runways:VOBL 09R-27L:extended centerline 1
+Runways:VOBL 09R-27L:extended centerline 1 left base
+Runways:VOBL 09R-27L:extended centerline 1 left ticks
+Runways:VOBL 09R-27L:extended centerline 1 left vectoring
+Runways:VOBL 09R-27L:extended centerline 1 right base
+Runways:VOBL 09R-27L:extended centerline 1 right ticks
+Runways:VOBL 09R-27L:extended centerline 1 right vectoring
+Runways:VOBL 09R-27L:extended centerline 2
+Runways:VOBL 09R-27L:extended centerline 2 left base
+Runways:VOBL 09R-27L:extended centerline 2 left ticks
+Runways:VOBL 09R-27L:extended centerline 2 left vectoring
+Runways:VOBL 09R-27L:extended centerline 2 right base
+Runways:VOBL 09R-27L:extended centerline 2 right ticks
+Runways:VOBL 09R-27L:extended centerline 2 right vectoring
+Runways:VOBL 09R-27L:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:359.00000
+TAGFAMILY:India vACC
+WINDOWAREA:13.185305:77.682165:13.215329:77.742064
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOBL
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

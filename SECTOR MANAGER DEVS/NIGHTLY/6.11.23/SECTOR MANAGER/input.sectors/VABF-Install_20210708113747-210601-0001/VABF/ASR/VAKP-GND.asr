@@ -1,0 +1,32 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:VAKP:name
+Airports:VAKP:symbol
+Free Text:VAKP GroundLayout\1:freetext
+Free Text:VAKP GroundLayout\2:freetext
+Free Text:VAKP GroundLayout\A:freetext
+Free Text:VAKP GroundLayout\A:freetext
+Geo:VAKP Groundlayout:
+NDBs:KP:frequency
+NDBs:KP:name
+NDBs:KP:symbol
+Regions:VAKP GroundLayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:India vACC
+WINDOWAREA:16.659197:74.275905:16.669577:74.297031
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAKP

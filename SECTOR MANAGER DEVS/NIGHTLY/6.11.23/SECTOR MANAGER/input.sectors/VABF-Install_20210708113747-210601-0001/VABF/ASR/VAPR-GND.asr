@@ -1,0 +1,34 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAPR:name
+Airports:VAPR:symbol
+Free Text:VAPR GroundLayout\1:freetext
+Free Text:VAPR GroundLayout\1:freetext
+Free Text:VAPR GroundLayout\1A:freetext
+Free Text:VAPR GroundLayout\2:freetext
+Free Text:VAPR GroundLayout\A:freetext
+Free Text:VAPR GroundLayout\B:freetext
+Free Text:VAPR GroundLayout\C:freetext
+Free Text:VAPR GroundLayout\N:freetext
+Geo:VAPR Groundlayout:
+Regions:VAPR GroundLayout:polygon
+VORs:PBN:frequency
+VORs:PBN:name
+VORs:PBN:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:India vACC
+WINDOWAREA:21.645123:69.648780:21.653427:69.665680
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAPR

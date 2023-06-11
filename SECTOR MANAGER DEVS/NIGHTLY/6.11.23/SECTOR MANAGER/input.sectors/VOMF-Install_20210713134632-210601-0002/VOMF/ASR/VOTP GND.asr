@@ -1,0 +1,69 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOTP
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
+Airports:VOTP:name
+Airports:VOTP:symbol
+Free Text:VOTP GroundLayout\08:freetext
+Free Text:VOTP GroundLayout\1:freetext
+Free Text:VOTP GroundLayout\10:freetext
+Free Text:VOTP GroundLayout\10A:freetext
+Free Text:VOTP GroundLayout\11:freetext
+Free Text:VOTP GroundLayout\11A:freetext
+Free Text:VOTP GroundLayout\12:freetext
+Free Text:VOTP GroundLayout\12A:freetext
+Free Text:VOTP GroundLayout\2:freetext
+Free Text:VOTP GroundLayout\26:freetext
+Free Text:VOTP GroundLayout\3:freetext
+Free Text:VOTP GroundLayout\4:freetext
+Free Text:VOTP GroundLayout\5:freetext
+Free Text:VOTP GroundLayout\6:freetext
+Free Text:VOTP GroundLayout\7:freetext
+Free Text:VOTP GroundLayout\8:freetext
+Free Text:VOTP GroundLayout\9:freetext
+Free Text:VOTP GroundLayout\A:freetext
+Free Text:VOTP GroundLayout\B:freetext
+Free Text:VOTP GroundLayout\C:freetext
+Geo:VOTP Groundlayout:
+Regions:VOTP GroundLayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:10.00000
+TAGFAMILY:India vACC
+WINDOWAREA:13.627576:79.531528:13.639875:79.555324

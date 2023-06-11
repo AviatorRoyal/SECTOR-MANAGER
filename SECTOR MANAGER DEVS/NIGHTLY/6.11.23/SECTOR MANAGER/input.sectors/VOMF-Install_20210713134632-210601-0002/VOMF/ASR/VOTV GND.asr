@@ -1,0 +1,86 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOTV
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
+Airports:VOTV:name
+Airports:VOTV:symbol
+Free Text:VOTV GroundLayout\1:freetext
+Free Text:VOTV GroundLayout\14:freetext
+Free Text:VOTV GroundLayout\2:freetext
+Free Text:VOTV GroundLayout\23:freetext
+Free Text:VOTV GroundLayout\24:freetext
+Free Text:VOTV GroundLayout\25:freetext
+Free Text:VOTV GroundLayout\26:freetext
+Free Text:VOTV GroundLayout\27:freetext
+Free Text:VOTV GroundLayout\27A:freetext
+Free Text:VOTV GroundLayout\28:freetext
+Free Text:VOTV GroundLayout\28A:freetext
+Free Text:VOTV GroundLayout\3:freetext
+Free Text:VOTV GroundLayout\32:freetext
+Free Text:VOTV GroundLayout\4:freetext
+Free Text:VOTV GroundLayout\43:freetext
+Free Text:VOTV GroundLayout\44:freetext
+Free Text:VOTV GroundLayout\44A:freetext
+Free Text:VOTV GroundLayout\45:freetext
+Free Text:VOTV GroundLayout\45A:freetext
+Free Text:VOTV GroundLayout\5:freetext
+Free Text:VOTV GroundLayout\6:freetext
+Free Text:VOTV GroundLayout\7:freetext
+Free Text:VOTV GroundLayout\8:freetext
+Free Text:VOTV GroundLayout\9:freetext
+Free Text:VOTV GroundLayout\A:freetext
+Free Text:VOTV GroundLayout\B:freetext
+Free Text:VOTV GroundLayout\C:freetext
+Free Text:VOTV GroundLayout\D:freetext
+Free Text:VOTV GroundLayout\E:freetext
+Free Text:VOTV GroundLayout\F:freetext
+Free Text:VOTV GroundLayout\P:freetext
+Free Text:VOTV GroundLayout\P:freetext
+Free Text:VOTV GroundLayout\P1:freetext
+Free Text:VOTV GroundLayout\P2:freetext
+Free Text:VOTV GroundLayout\P3:freetext
+Free Text:VOTV GroundLayout\P4:freetext
+Free Text:VOTV GroundLayout\P5:freetext
+Geo:VOTV Groundlayout:
+Regions:VOTV GroundLayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:135.00000
+TAGFAMILY:India vACC
+WINDOWAREA:8.472105:76.900059:8.491321:76.937237

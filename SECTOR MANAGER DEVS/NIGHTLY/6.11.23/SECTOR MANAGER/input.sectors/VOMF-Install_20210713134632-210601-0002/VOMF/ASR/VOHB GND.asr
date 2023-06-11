@@ -1,0 +1,64 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOHB
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
+Airports:VOHB:name
+Airports:VOHB:symbol
+Free Text:VOHB GroundLayout\08:freetext
+Free Text:VOHB GroundLayout\1:freetext
+Free Text:VOHB GroundLayout\2:freetext
+Free Text:VOHB GroundLayout\26:freetext
+Free Text:VOHB GroundLayout\3:freetext
+Free Text:VOHB GroundLayout\4:freetext
+Free Text:VOHB GroundLayout\5:freetext
+Free Text:VOHB GroundLayout\6:freetext
+Free Text:VOHB GroundLayout\7:freetext
+Free Text:VOHB GroundLayout\8:freetext
+Free Text:VOHB GroundLayout\A:freetext
+Free Text:VOHB GroundLayout\B:freetext
+Free Text:VOHB GroundLayout\C:freetext
+Free Text:VOHB GroundLayout\D:freetext
+Free Text:VOHB GroundLayout\IPB:freetext
+Geo:VOHB Groundlayout:
+Regions:VOHB GroundLayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:0
+DisplayRotation:8.00000
+TAGFAMILY:India vACC
+WINDOWAREA:15.353488:75.067321:15.368861:75.097064

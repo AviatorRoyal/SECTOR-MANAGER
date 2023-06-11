@@ -1,0 +1,29 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAKE:name
+Airports:VAKE:symbol
+Free Text:VAKE GroundLayout\1:freetext
+Free Text:VAKE GroundLayout\2:freetext
+Free Text:VAKE GroundLayout\A:freetext
+Geo:VAKE Groundlayout:
+Regions:VAKE GroundLayout:polygon
+VORs:KND:frequency
+VORs:KND:name
+VORs:KND:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:38.00000
+TAGFAMILY:India vACC
+WINDOWAREA:23.108026:70.092506:23.116330:70.109406
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAKE

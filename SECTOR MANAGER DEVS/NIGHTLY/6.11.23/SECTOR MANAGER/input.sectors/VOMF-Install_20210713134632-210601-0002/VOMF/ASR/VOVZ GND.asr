@@ -1,0 +1,66 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOVZ
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
+Airports:VOVZ:name
+Airports:VOVZ:symbol
+Free Text:VOVZ GroundLayout\05:freetext
+Free Text:VOVZ GroundLayout\1:freetext
+Free Text:VOVZ GroundLayout\10:freetext
+Free Text:VOVZ GroundLayout\2:freetext
+Free Text:VOVZ GroundLayout\23:freetext
+Free Text:VOVZ GroundLayout\28:freetext
+Free Text:VOVZ GroundLayout\3:freetext
+Free Text:VOVZ GroundLayout\4:freetext
+Free Text:VOVZ GroundLayout\5:freetext
+Free Text:VOVZ GroundLayout\6:freetext
+Free Text:VOVZ GroundLayout\N1:freetext
+Free Text:VOVZ GroundLayout\N2:freetext
+Free Text:VOVZ GroundLayout\N3:freetext
+Free Text:VOVZ GroundLayout\N4:freetext
+Free Text:VOVZ GroundLayout\S1:freetext
+Free Text:VOVZ GroundLayout\S3:freetext
+Free Text:VOVZ GroundLayout\S4:freetext
+Geo:VOVZ Groundlayout:
+Regions:VOVZ GroundLayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:1
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:356.00000
+TAGFAMILY:India vACC
+WINDOWAREA:17.711621:83.211770:17.730837:83.248947

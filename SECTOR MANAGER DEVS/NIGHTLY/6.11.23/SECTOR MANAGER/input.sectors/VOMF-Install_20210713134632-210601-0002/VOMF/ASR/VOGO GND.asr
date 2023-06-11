@@ -1,0 +1,79 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOGO
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
+Airports:VOGO:name
+Airports:VOGO:symbol
+Free Text:VOGO GroundLayout\08:freetext
+Free Text:VOGO GroundLayout\09:freetext
+Free Text:VOGO GroundLayout\1:freetext
+Free Text:VOGO GroundLayout\10:freetext
+Free Text:VOGO GroundLayout\11:freetext
+Free Text:VOGO GroundLayout\2:freetext
+Free Text:VOGO GroundLayout\26:freetext
+Free Text:VOGO GroundLayout\3:freetext
+Free Text:VOGO GroundLayout\4:freetext
+Free Text:VOGO GroundLayout\5:freetext
+Free Text:VOGO GroundLayout\6:freetext
+Free Text:VOGO GroundLayout\7:freetext
+Free Text:VOGO GroundLayout\8:freetext
+Free Text:VOGO GroundLayout\A:freetext
+Free Text:VOGO GroundLayout\A:freetext
+Free Text:VOGO GroundLayout\A:freetext
+Free Text:VOGO GroundLayout\N1:freetext
+Free Text:VOGO GroundLayout\N10:freetext
+Free Text:VOGO GroundLayout\N11:freetext
+Free Text:VOGO GroundLayout\N2:freetext
+Free Text:VOGO GroundLayout\N3:freetext
+Free Text:VOGO GroundLayout\N4:freetext
+Free Text:VOGO GroundLayout\N5:freetext
+Free Text:VOGO GroundLayout\N6:freetext
+Free Text:VOGO GroundLayout\N7:freetext
+Free Text:VOGO GroundLayout\N8:freetext
+Free Text:VOGO GroundLayout\N9:freetext
+Free Text:VOGO GroundLayout\S1:freetext
+Free Text:VOGO GroundLayout\S2:freetext
+Free Text:VOGO GroundLayout\S3:freetext
+Geo:VOGO Groundlayout:
+Regions:VOGO GroundLayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:12.00000
+TAGFAMILY:India vACC
+WINDOWAREA:15.372347:73.813830:15.391563:73.851008

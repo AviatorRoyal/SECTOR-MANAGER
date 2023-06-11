@@ -1,0 +1,31 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAGD:name
+Airports:VAGD:symbol
+Free Text:VAGD GroundLayout\A:freetext
+Free Text:VAGD GroundLayout\B:freetext
+Free Text:VAGD GroundLayout\P1:freetext
+Free Text:VAGD GroundLayout\P4:freetext
+Free Text:VAGD GroundLayout\P5:freetext
+Geo:VAGD Groundlayout:
+Regions:VAGD GroundLayout:polygon
+VORs:GDA:frequency
+VORs:GDA:name
+VORs:GDA:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:45.00000
+TAGFAMILY:India vACC
+WINDOWAREA:21.518715:80.275623:21.531690:80.302031
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAGD

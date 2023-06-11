@@ -1,0 +1,27 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAJJ:name
+Airports:VAJJ:symbol
+Free Text:VAJJ GroundLayout\B:freetext
+Free Text:VAJJ GroundLayout\D:freetext
+Free Text:VAJJ GroundLayout\N:freetext
+Free Text:VAJJ GroundLayout\P:freetext
+Geo:VAJJ Groundlayout:
+Regions:VAJJ GroundLayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:India vACC
+WINDOWAREA:19.092099:72.823246:19.102479:72.844372
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAJJ

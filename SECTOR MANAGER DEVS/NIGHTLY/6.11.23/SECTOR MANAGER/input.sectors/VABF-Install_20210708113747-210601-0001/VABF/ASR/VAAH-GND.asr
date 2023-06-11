@@ -1,0 +1,102 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAAH:name
+Airports:VAAH:symbol
+Free Text:VAAH GroundLayout\1:freetext
+Free Text:VAAH GroundLayout\10:freetext
+Free Text:VAAH GroundLayout\11:freetext
+Free Text:VAAH GroundLayout\12:freetext
+Free Text:VAAH GroundLayout\13:freetext
+Free Text:VAAH GroundLayout\14:freetext
+Free Text:VAAH GroundLayout\15:freetext
+Free Text:VAAH GroundLayout\16:freetext
+Free Text:VAAH GroundLayout\17:freetext
+Free Text:VAAH GroundLayout\18:freetext
+Free Text:VAAH GroundLayout\19:freetext
+Free Text:VAAH GroundLayout\2:freetext
+Free Text:VAAH GroundLayout\20:freetext
+Free Text:VAAH GroundLayout\21:freetext
+Free Text:VAAH GroundLayout\22:freetext
+Free Text:VAAH GroundLayout\23:freetext
+Free Text:VAAH GroundLayout\24:freetext
+Free Text:VAAH GroundLayout\25:freetext
+Free Text:VAAH GroundLayout\25A:freetext
+Free Text:VAAH GroundLayout\26:freetext
+Free Text:VAAH GroundLayout\26A:freetext
+Free Text:VAAH GroundLayout\27:freetext
+Free Text:VAAH GroundLayout\27A:freetext
+Free Text:VAAH GroundLayout\28:freetext
+Free Text:VAAH GroundLayout\28A:freetext
+Free Text:VAAH GroundLayout\29:freetext
+Free Text:VAAH GroundLayout\29A:freetext
+Free Text:VAAH GroundLayout\3:freetext
+Free Text:VAAH GroundLayout\30:freetext
+Free Text:VAAH GroundLayout\30A:freetext
+Free Text:VAAH GroundLayout\31:freetext
+Free Text:VAAH GroundLayout\32:freetext
+Free Text:VAAH GroundLayout\33:freetext
+Free Text:VAAH GroundLayout\34:freetext
+Free Text:VAAH GroundLayout\35:freetext
+Free Text:VAAH GroundLayout\36:freetext
+Free Text:VAAH GroundLayout\4:freetext
+Free Text:VAAH GroundLayout\5:freetext
+Free Text:VAAH GroundLayout\6:freetext
+Free Text:VAAH GroundLayout\7:freetext
+Free Text:VAAH GroundLayout\8:freetext
+Free Text:VAAH GroundLayout\9:freetext
+Free Text:VAAH GroundLayout\A:freetext
+Free Text:VAAH GroundLayout\A:freetext
+Free Text:VAAH GroundLayout\B:freetext
+Free Text:VAAH GroundLayout\B:freetext
+Free Text:VAAH GroundLayout\C:freetext
+Free Text:VAAH GroundLayout\D:freetext
+Free Text:VAAH GroundLayout\F:freetext
+Free Text:VAAH GroundLayout\G:freetext
+Free Text:VAAH GroundLayout\H:freetext
+Free Text:VAAH GroundLayout\K:freetext
+Free Text:VAAH GroundLayout\L:freetext
+Free Text:VAAH GroundLayout\L:freetext
+Free Text:VAAH GroundLayout\L:freetext
+Free Text:VAAH GroundLayout\L:freetext
+Free Text:VAAH GroundLayout\L1:freetext
+Free Text:VAAH GroundLayout\L2:freetext
+Free Text:VAAH GroundLayout\L3:freetext
+Free Text:VAAH GroundLayout\L3:freetext
+Free Text:VAAH GroundLayout\L4:freetext
+Free Text:VAAH GroundLayout\L4:freetext
+Free Text:VAAH GroundLayout\L4:freetext
+Free Text:VAAH GroundLayout\L5:freetext
+Free Text:VAAH GroundLayout\L5:freetext
+Free Text:VAAH GroundLayout\L6:freetext
+Free Text:VAAH GroundLayout\L7:freetext
+Free Text:VAAH GroundLayout\L8:freetext
+Free Text:VAAH GroundLayout\L9:freetext
+Free Text:VAAH GroundLayout\L9:freetext
+Free Text:VAAH GroundLayout\P:freetext
+Free Text:VAAH GroundLayout\P:freetext
+Free Text:VAAH GroundLayout\R:freetext
+Free Text:VAAH GroundLayout\R:freetext
+Free Text:VAAH GroundLayout\R:freetext
+Free Text:VAAH GroundLayout\R:freetext
+Geo:VAAH Groundlayout:
+Regions:VAAH GroundLayout:polygon
+VORs:AAE:frequency
+VORs:AAE:name
+VORs:AAE:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:45.00000
+TAGFAMILY:India vACC
+WINDOWAREA:23.068444:72.605104:23.092463:72.653988
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAAH

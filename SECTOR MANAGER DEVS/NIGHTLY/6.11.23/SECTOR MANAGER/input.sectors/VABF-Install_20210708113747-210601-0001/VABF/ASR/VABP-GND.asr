@@ -1,0 +1,54 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VABP:name
+Airports:VABP:symbol
+Free Text:VABP GroundLayout\1:freetext
+Free Text:VABP GroundLayout\1:freetext
+Free Text:VABP GroundLayout\10:freetext
+Free Text:VABP GroundLayout\11:freetext
+Free Text:VABP GroundLayout\12:freetext
+Free Text:VABP GroundLayout\13:freetext
+Free Text:VABP GroundLayout\2:freetext
+Free Text:VABP GroundLayout\2:freetext
+Free Text:VABP GroundLayout\3:freetext
+Free Text:VABP GroundLayout\3:freetext
+Free Text:VABP GroundLayout\4:freetext
+Free Text:VABP GroundLayout\4:freetext
+Free Text:VABP GroundLayout\5:freetext
+Free Text:VABP GroundLayout\6:freetext
+Free Text:VABP GroundLayout\7:freetext
+Free Text:VABP GroundLayout\8:freetext
+Free Text:VABP GroundLayout\9:freetext
+Free Text:VABP GroundLayout\A:freetext
+Free Text:VABP GroundLayout\B:freetext
+Free Text:VABP GroundLayout\C:freetext
+Free Text:VABP GroundLayout\D:freetext
+Free Text:VABP GroundLayout\E:freetext
+Free Text:VABP GroundLayout\E:freetext
+Free Text:VABP GroundLayout\F:freetext
+Free Text:VABP GroundLayout\G:freetext
+Free Text:VABP GroundLayout\Isolation Bay:freetext
+Free Text:VABP GroundLayout\New Terminal:freetext
+Free Text:VABP GroundLayout\Old Terminal:freetext
+Geo:VABP Groundlayout:
+Regions:VABP GroundLayout:polygon
+VORs:BPL:frequency
+VORs:BPL:name
+VORs:BPL:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:India vACC
+WINDOWAREA:23.279725:77.314349:23.299998:77.355610
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VABP

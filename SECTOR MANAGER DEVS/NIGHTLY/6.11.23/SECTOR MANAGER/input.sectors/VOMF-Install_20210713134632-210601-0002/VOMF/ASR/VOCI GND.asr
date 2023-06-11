@@ -1,0 +1,99 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOCI
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
+Airports:VOCI:name
+Airports:VOCI:symbol
+Free Text:VOCI GroundLayout\09:freetext
+Free Text:VOCI GroundLayout\1:freetext
+Free Text:VOCI GroundLayout\10:freetext
+Free Text:VOCI GroundLayout\11:freetext
+Free Text:VOCI GroundLayout\12:freetext
+Free Text:VOCI GroundLayout\13:freetext
+Free Text:VOCI GroundLayout\14:freetext
+Free Text:VOCI GroundLayout\15:freetext
+Free Text:VOCI GroundLayout\16:freetext
+Free Text:VOCI GroundLayout\17:freetext
+Free Text:VOCI GroundLayout\18:freetext
+Free Text:VOCI GroundLayout\19:freetext
+Free Text:VOCI GroundLayout\2:freetext
+Free Text:VOCI GroundLayout\20:freetext
+Free Text:VOCI GroundLayout\21:freetext
+Free Text:VOCI GroundLayout\22:freetext
+Free Text:VOCI GroundLayout\23:freetext
+Free Text:VOCI GroundLayout\27:freetext
+Free Text:VOCI GroundLayout\3:freetext
+Free Text:VOCI GroundLayout\35:freetext
+Free Text:VOCI GroundLayout\36:freetext
+Free Text:VOCI GroundLayout\4:freetext
+Free Text:VOCI GroundLayout\41:freetext
+Free Text:VOCI GroundLayout\42:freetext
+Free Text:VOCI GroundLayout\43:freetext
+Free Text:VOCI GroundLayout\44:freetext
+Free Text:VOCI GroundLayout\5:freetext
+Free Text:VOCI GroundLayout\6:freetext
+Free Text:VOCI GroundLayout\7:freetext
+Free Text:VOCI GroundLayout\8:freetext
+Free Text:VOCI GroundLayout\9:freetext
+Free Text:VOCI GroundLayout\A:freetext
+Free Text:VOCI GroundLayout\B:freetext
+Free Text:VOCI GroundLayout\C:freetext
+Free Text:VOCI GroundLayout\C:freetext
+Free Text:VOCI GroundLayout\C:freetext
+Free Text:VOCI GroundLayout\C1:freetext
+Free Text:VOCI GroundLayout\C2:freetext
+Free Text:VOCI GroundLayout\C3:freetext
+Free Text:VOCI GroundLayout\C4:freetext
+Free Text:VOCI GroundLayout\C5:freetext
+Free Text:VOCI GroundLayout\C6:freetext
+Free Text:VOCI GroundLayout\C7:freetext
+Free Text:VOCI GroundLayout\D:freetext
+Free Text:VOCI GroundLayout\D1:freetext
+Free Text:VOCI GroundLayout\E:freetext
+Free Text:VOCI GroundLayout\F:freetext
+Free Text:VOCI GroundLayout\G:freetext
+Free Text:VOCI GroundLayout\H:freetext
+Free Text:VOCI GroundLayout\H1:freetext
+Geo:VOCI Groundlayout:
+Regions:VOCI GroundLayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:3.00000
+TAGFAMILY:India vACC
+WINDOWAREA:10.144587:76.381057:10.163803:76.418235

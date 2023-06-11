@@ -1,0 +1,45 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAUD:name
+Airports:VAUD:symbol
+Free Text:VAUD GroundLayout\1:freetext
+Free Text:VAUD GroundLayout\10:freetext
+Free Text:VAUD GroundLayout\11:freetext
+Free Text:VAUD GroundLayout\12:freetext
+Free Text:VAUD GroundLayout\2:freetext
+Free Text:VAUD GroundLayout\3:freetext
+Free Text:VAUD GroundLayout\4:freetext
+Free Text:VAUD GroundLayout\5:freetext
+Free Text:VAUD GroundLayout\6:freetext
+Free Text:VAUD GroundLayout\7:freetext
+Free Text:VAUD GroundLayout\8:freetext
+Free Text:VAUD GroundLayout\9:freetext
+Free Text:VAUD GroundLayout\A:freetext
+Free Text:VAUD GroundLayout\B:freetext
+Free Text:VAUD GroundLayout\C:freetext
+Free Text:VAUD GroundLayout\D:freetext
+Free Text:VAUD GroundLayout\E:freetext
+Free Text:VAUD GroundLayout\F:freetext
+Free Text:VAUD GroundLayout\IPB:freetext
+Geo:VAUD Groundlayout:
+Regions:VAUD GroundLayout:polygon
+VORs:UUD:frequency
+VORs:UUD:name
+VORs:UUD:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:7.00000
+TAGFAMILY:India vACC
+WINDOWAREA:24.612505:73.882746:24.625480:73.909153
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAUD

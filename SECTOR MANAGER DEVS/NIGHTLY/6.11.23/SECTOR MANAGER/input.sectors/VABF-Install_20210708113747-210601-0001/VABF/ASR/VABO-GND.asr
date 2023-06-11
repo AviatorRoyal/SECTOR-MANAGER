@@ -1,0 +1,59 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VABO:name
+Airports:VABO:symbol
+Free Text:VABO GroundLayout\1:freetext
+Free Text:VABO GroundLayout\10:freetext
+Free Text:VABO GroundLayout\11:freetext
+Free Text:VABO GroundLayout\12:freetext
+Free Text:VABO GroundLayout\13:freetext
+Free Text:VABO GroundLayout\14:freetext
+Free Text:VABO GroundLayout\2:freetext
+Free Text:VABO GroundLayout\3A:freetext
+Free Text:VABO GroundLayout\3B:freetext
+Free Text:VABO GroundLayout\3C:freetext
+Free Text:VABO GroundLayout\4A:freetext
+Free Text:VABO GroundLayout\4B:freetext
+Free Text:VABO GroundLayout\4C:freetext
+Free Text:VABO GroundLayout\5:freetext
+Free Text:VABO GroundLayout\6:freetext
+Free Text:VABO GroundLayout\7:freetext
+Free Text:VABO GroundLayout\8:freetext
+Free Text:VABO GroundLayout\9:freetext
+Free Text:VABO GroundLayout\A:freetext
+Free Text:VABO GroundLayout\A1:freetext
+Free Text:VABO GroundLayout\Apron 2 Night Parking:freetext
+Free Text:VABO GroundLayout\B:freetext
+Free Text:VABO GroundLayout\C:freetext
+Free Text:VABO GroundLayout\D:freetext
+Free Text:VABO GroundLayout\E:freetext
+Free Text:VABO GroundLayout\F:freetext
+Free Text:VABO GroundLayout\G:freetext
+Free Text:VABO GroundLayout\H:freetext
+Free Text:VABO GroundLayout\Isolation Bay:freetext
+Free Text:VABO GroundLayout\J:freetext
+Free Text:VABO GroundLayout\K:freetext
+Free Text:VABO GroundLayout\Main Terminal:freetext
+Free Text:VABO GroundLayout\Military Apron:freetext
+Geo:VABO Groundlayout:
+Regions:VABO GroundLayout:polygon
+VORs:QQZ:frequency
+VORs:QQZ:name
+VORs:QQZ:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:45.00000
+TAGFAMILY:India vACC
+WINDOWAREA:22.327601:73.211128:22.343820:73.244137
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VABO

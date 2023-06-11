@@ -1,0 +1,40 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAOZ:name
+Airports:VAOZ:symbol
+Free Text:VAOZ GroundLayout\1:freetext
+Free Text:VAOZ GroundLayout\2:freetext
+Free Text:VAOZ GroundLayout\3:freetext
+Free Text:VAOZ GroundLayout\4:freetext
+Free Text:VAOZ GroundLayout\A:freetext
+Free Text:VAOZ GroundLayout\A1:freetext
+Free Text:VAOZ GroundLayout\A2:freetext
+Free Text:VAOZ GroundLayout\A3:freetext
+Free Text:VAOZ GroundLayout\A4:freetext
+Free Text:VAOZ GroundLayout\A5:freetext
+Free Text:VAOZ GroundLayout\B:freetext
+Free Text:VAOZ GroundLayout\C:freetext
+Free Text:VAOZ GroundLayout\D:freetext
+Free Text:VAOZ GroundLayout\E:freetext
+Geo:VAOZ Groundlayout:
+Regions:VAOZ GroundLayout:polygon
+VORs:OJR:frequency
+VORs:OJR:name
+VORs:OJR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:India vACC
+WINDOWAREA:20.109690:73.892885:20.129964:73.934146
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAOZ

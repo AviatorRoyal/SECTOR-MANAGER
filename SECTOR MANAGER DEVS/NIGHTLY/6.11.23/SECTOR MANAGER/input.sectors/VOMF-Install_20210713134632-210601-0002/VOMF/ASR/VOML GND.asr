@@ -1,0 +1,80 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+
+Airports:VOML:name
+Airports:VOML:symbol
+Free Text:VOML GroundLayout\06:freetext
+Free Text:VOML GroundLayout\1:freetext
+Free Text:VOML GroundLayout\10:freetext
+Free Text:VOML GroundLayout\11:freetext
+Free Text:VOML GroundLayout\12:freetext
+Free Text:VOML GroundLayout\13:freetext
+Free Text:VOML GroundLayout\14:freetext
+Free Text:VOML GroundLayout\15:freetext
+Free Text:VOML GroundLayout\24:freetext
+Free Text:VOML GroundLayout\2E:freetext
+Free Text:VOML GroundLayout\2N:freetext
+Free Text:VOML GroundLayout\2W:freetext
+Free Text:VOML GroundLayout\3:freetext
+Free Text:VOML GroundLayout\4E:freetext
+Free Text:VOML GroundLayout\4W:freetext
+Free Text:VOML GroundLayout\5:freetext
+Free Text:VOML GroundLayout\6:freetext
+Free Text:VOML GroundLayout\7:freetext
+Free Text:VOML GroundLayout\8:freetext
+Free Text:VOML GroundLayout\9:freetext
+Free Text:VOML GroundLayout\A:freetext
+Free Text:VOML GroundLayout\B:freetext
+Free Text:VOML GroundLayout\C:freetext
+Free Text:VOML GroundLayout\D:freetext
+Free Text:VOML GroundLayout\E:freetext
+Free Text:VOML GroundLayout\F:freetext
+Free Text:VOML GroundLayout\G:freetext
+Free Text:VOML GroundLayout\G1:freetext
+Free Text:VOML GroundLayout\H:freetext
+Free Text:VOML GroundLayout\J:freetext
+Free Text:VOML GroundLayout\P:freetext
+Geo:VOML Groundlayout:
+Regions:VOML GroundLayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:33.00000
+TAGFAMILY:India vACC
+WINDOWAREA:12.948311:74.868302:12.963684:74.898044
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:VOML
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

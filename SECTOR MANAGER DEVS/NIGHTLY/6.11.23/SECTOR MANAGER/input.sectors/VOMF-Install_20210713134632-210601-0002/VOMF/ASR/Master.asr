@@ -1,0 +1,904 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:E:\VOMF-Install_20210713134632-210601-0002\VOMF-Install_20210713134632-210601-0002.sct
+SECTORTITLE:VOMF-Install_20210713134632-210601-0002.sct
+ARTCC boundary:ACC - VOBL SFC - FL255:
+ARTCC boundary:ACC - VOBL/VOCI SFC - FL255:
+ARTCC boundary:ACC - VOCI SFC - FL255:
+ARTCC boundary:ACC - VOHS SFC - FL255:
+ARTCC boundary:ACC - VOML SFC - FL255:
+ARTCC boundary:ACC - VOMM_N SFC - FL255:
+ARTCC boundary:ACC - VOMM_S SFC - FL255:
+ARTCC boundary:ACC - VOMX SFC - FL355:
+ARTCC boundary:ACC - VOTV SFC - FL255:
+ARTCC boundary:BB - VOMF SFC - FL255:
+ARTCC boundary:BB - VOMF_W SFC - FL255:
+ARTCC high boundary:BB - VOMF FL255 - UNL:
+ARTCC high boundary:BB - VOMF_W FL255 - UNL:
+ARTCC high boundary:FIR - VCCF:
+ARTCC high boundary:FIR - VRMF:
+ARTCC high boundary:FIR - VYYF:
+ARTCC high boundary:FIR - WIIF:
+ARTCC high boundary:UIR - OCU FL255 - UNL:
+ARTCC high boundary:UIR - UBLE FL255 - UNL:
+ARTCC high boundary:UIR - UBLW FL255 - UNL:
+ARTCC high boundary:UIR - UHS FL255 - UNL:
+ARTCC high boundary:UIR - UML FL255 - UNL:
+ARTCC high boundary:UIR - UMM FL255-UNL:
+ARTCC high boundary:UIR - UTV FL255 - UNL:
+High airways:A347:line
+High airways:A465:line
+High airways:A474:line
+High airways:B211:line
+High airways:B342:line
+High airways:B459:line
+High airways:B463:line
+High airways:B466:line
+High airways:G208:line
+High airways:G210:line
+High airways:G325:line
+High airways:G450:line
+High airways:G454:line
+High airways:G463:line
+High airways:G465:line
+High airways:G472:line
+High airways:J13:line
+High airways:J14:line
+High airways:J15:line
+High airways:J16:line
+High airways:J17:line
+High airways:J18:line
+High airways:J19:line
+High airways:J2:line
+High airways:J26:line
+High airways:J4:line
+High airways:J5:line
+High airways:L301:line
+High airways:L505:line
+High airways:L507:line
+High airways:L510:line
+High airways:L518:line
+High airways:L524:line
+High airways:L645:line
+High airways:L759:line
+High airways:L875:line
+High airways:L894:line
+High airways:L896:line
+High airways:L897:line
+High airways:L899:line
+High airways:M300:line
+High airways:M512:line
+High airways:M513:line
+High airways:M638:line
+High airways:M641:line
+High airways:M766:line
+High airways:M770:line
+High airways:M773:line
+High airways:N519:line
+High airways:N563:line
+High airways:N564:line
+High airways:N571:line
+High airways:N640:line
+High airways:N877:line
+High airways:N895:line
+High airways:P570:line
+High airways:P574:line
+High airways:P627:line
+High airways:P628:line
+High airways:P646:line
+High airways:P756:line
+High airways:P761:line
+High airways:P762:line
+High airways:P895:line
+High airways:Q1:line
+High airways:Q10:line
+High airways:Q11:line
+High airways:Q110:line
+High airways:Q12:line
+High airways:Q13:line
+High airways:Q19:line
+High airways:Q2:line
+High airways:Q20:line
+High airways:Q21:line
+High airways:Q210:line
+High airways:Q22:line
+High airways:Q23:line
+High airways:Q24:line
+High airways:Q8:line
+High airways:Q9:line
+High airways:R329:line
+High airways:R457:line
+High airways:R458:line
+High airways:R461:line
+High airways:T3:line
+High airways:T310:line
+High airways:T4:line
+High airways:T456:line
+High airways:T5:line
+High airways:T6:line
+High airways:T644:line
+High airways:T7:line
+High airways:T8:line
+High airways:T9:line
+High airways:UL425:line
+High airways:V1:line
+High airways:V11:line
+High airways:V2:line
+High airways:V22:line
+High airways:V23:line
+High airways:V24:line
+High airways:V25:line
+High airways:V26:line
+High airways:V27:line
+High airways:V28:line
+High airways:V29:line
+High airways:V3:line
+High airways:V33:line
+High airways:V34:line
+High airways:V35:line
+High airways:V4:line
+High airways:V43:line
+High airways:V45:line
+High airways:V46:line
+High airways:V48:line
+High airways:V49:line
+High airways:V5:line
+High airways:V57:line
+High airways:V58:line
+High airways:V6:line
+High airways:V7:line
+High airways:V8:line
+High airways:V86:line
+High airways:V87:line
+High airways:V88:line
+High airways:V89:line
+High airways:V9:line
+High airways:W101E:line
+High airways:W101W:line
+High airways:W10N:line
+High airways:W10S:line
+High airways:W111:line
+High airways:W112:line
+High airways:W114:line
+High airways:W115:line
+High airways:W116:line
+High airways:W117:line
+High airways:W118:line
+High airways:W119:line
+High airways:W12:line
+High airways:W120:line
+High airways:W128:line
+High airways:W134:line
+High airways:W136:line
+High airways:W13N:line
+High airways:W13S:line
+High airways:W14:line
+High airways:W141:line
+High airways:W142:line
+High airways:W145:line
+High airways:W146:line
+High airways:W147:line
+High airways:W148:line
+High airways:W15:line
+High airways:W153:line
+High airways:W163:line
+High airways:W16N:line
+High airways:W16S:line
+High airways:W17:line
+High airways:W18:line
+High airways:W19:line
+High airways:W20:line
+High airways:W21:line
+High airways:W23:line
+High airways:W26:line
+High airways:W27:line
+High airways:W28:line
+High airways:W29:line
+High airways:W38:line
+High airways:W41:line
+High airways:W42:line
+High airways:W43:line
+High airways:W46:line
+High airways:W47:line
+High airways:W56:line
+High airways:W57:line
+High airways:W61:line
+High airways:W66:line
+High airways:W67:line
+High airways:W70:line
+High airways:W71:line
+High airways:W75:line
+High airways:W77:line
+High airways:W78:line
+High airways:W79:line
+High airways:W80:line
+High airways:W81:line
+High airways:W88:line
+High airways:W90:line
+High airways:W91:line
+High airways:W96:line
+High airways:W98:line
+High airways:Y510:line
+High airways:Z1:line
+High airways:Z2:line
+High airways:Z3:line
+High airways:Z4:line
+High airways:Z5:line
+High airways:Z610:line
+High airways:Z652:line
+High airways:Z749:line
+NDBs:AN:symbol
+NDBs:AT:symbol
+NDBs:AU:symbol
+NDBs:BAT:symbol
+NDBs:BR:symbol
+NDBs:BZ:symbol
+NDBs:CB:symbol
+NDBs:CC:symbol
+NDBs:CHB:symbol
+NDBs:CI:symbol
+NDBs:CP:symbol
+NDBs:CZ:symbol
+NDBs:DM:symbol
+NDBs:GB:symbol
+NDBs:GO:symbol
+NDBs:HA:symbol
+NDBs:HB:symbol
+NDBs:KP:symbol
+NDBs:MA:symbol
+NDBs:MD:symbol
+NDBs:MDS:symbol
+NDBs:MG:symbol
+NDBs:ML:symbol
+NDBs:MN:symbol
+NDBs:NT:symbol
+NDBs:OM:symbol
+NDBs:PA:symbol
+NDBs:PB:symbol
+NDBs:PO:symbol
+NDBs:PTN:symbol
+NDBs:RM:symbol
+NDBs:RY:symbol
+NDBs:SAI:symbol
+NDBs:SC:symbol
+NDBs:SL:symbol
+NDBs:SO:symbol
+NDBs:TD:symbol
+NDBs:TGO:symbol
+NDBs:TU:symbol
+NDBs:VN:symbol
+NDBs:VNA:symbol
+NDBs:WE:symbol
+NDBs:YD:symbol
+Runways:VOAT 04-22:centerline
+Runways:VOAT 04-22:extended centerline 1
+Runways:VOAT 04-22:extended centerline 1 left base
+Runways:VOAT 04-22:extended centerline 1 left ticks
+Runways:VOAT 04-22:extended centerline 1 left vectoring
+Runways:VOAT 04-22:extended centerline 1 right base
+Runways:VOAT 04-22:extended centerline 1 right ticks
+Runways:VOAT 04-22:extended centerline 1 right vectoring
+Runways:VOAT 04-22:extended centerline 2
+Runways:VOAT 04-22:extended centerline 2 left base
+Runways:VOAT 04-22:extended centerline 2 left ticks
+Runways:VOAT 04-22:extended centerline 2 left vectoring
+Runways:VOAT 04-22:extended centerline 2 right base
+Runways:VOAT 04-22:extended centerline 2 right ticks
+Runways:VOAT 04-22:extended centerline 2 right vectoring
+Runways:VOAT 04-22:name
+Runways:VOBG 09-27:centerline
+Runways:VOBG 09-27:extended centerline 1
+Runways:VOBG 09-27:extended centerline 1 left base
+Runways:VOBG 09-27:extended centerline 1 left ticks
+Runways:VOBG 09-27:extended centerline 1 left vectoring
+Runways:VOBG 09-27:extended centerline 1 right base
+Runways:VOBG 09-27:extended centerline 1 right ticks
+Runways:VOBG 09-27:extended centerline 1 right vectoring
+Runways:VOBG 09-27:extended centerline 2
+Runways:VOBG 09-27:extended centerline 2 left base
+Runways:VOBG 09-27:extended centerline 2 left ticks
+Runways:VOBG 09-27:extended centerline 2 left vectoring
+Runways:VOBG 09-27:extended centerline 2 right base
+Runways:VOBG 09-27:extended centerline 2 right ticks
+Runways:VOBG 09-27:extended centerline 2 right vectoring
+Runways:VOBG 09-27:name
+Runways:VOBL 09L-27R:centerline
+Runways:VOBL 09L-27R:extended centerline 1
+Runways:VOBL 09L-27R:extended centerline 1 left base
+Runways:VOBL 09L-27R:extended centerline 1 left ticks
+Runways:VOBL 09L-27R:extended centerline 1 left vectoring
+Runways:VOBL 09L-27R:extended centerline 1 right base
+Runways:VOBL 09L-27R:extended centerline 1 right ticks
+Runways:VOBL 09L-27R:extended centerline 1 right vectoring
+Runways:VOBL 09L-27R:extended centerline 2
+Runways:VOBL 09L-27R:extended centerline 2 left base
+Runways:VOBL 09L-27R:extended centerline 2 left ticks
+Runways:VOBL 09L-27R:extended centerline 2 left vectoring
+Runways:VOBL 09L-27R:extended centerline 2 right base
+Runways:VOBL 09L-27R:extended centerline 2 right ticks
+Runways:VOBL 09L-27R:extended centerline 2 right vectoring
+Runways:VOBL 09L-27R:name
+Runways:VOBL 09R-27L:centerline
+Runways:VOBL 09R-27L:extended centerline 1
+Runways:VOBL 09R-27L:extended centerline 1 left base
+Runways:VOBL 09R-27L:extended centerline 1 left ticks
+Runways:VOBL 09R-27L:extended centerline 1 left vectoring
+Runways:VOBL 09R-27L:extended centerline 1 right base
+Runways:VOBL 09R-27L:extended centerline 1 right ticks
+Runways:VOBL 09R-27L:extended centerline 1 right vectoring
+Runways:VOBL 09R-27L:extended centerline 2
+Runways:VOBL 09R-27L:extended centerline 2 left base
+Runways:VOBL 09R-27L:extended centerline 2 left ticks
+Runways:VOBL 09R-27L:extended centerline 2 left vectoring
+Runways:VOBL 09R-27L:extended centerline 2 right base
+Runways:VOBL 09R-27L:extended centerline 2 right ticks
+Runways:VOBL 09R-27L:extended centerline 2 right vectoring
+Runways:VOBL 09R-27L:name
+Runways:VOBM 08-26:centerline
+Runways:VOBM 08-26:extended centerline 1
+Runways:VOBM 08-26:extended centerline 1 left base
+Runways:VOBM 08-26:extended centerline 1 left ticks
+Runways:VOBM 08-26:extended centerline 1 left vectoring
+Runways:VOBM 08-26:extended centerline 1 right base
+Runways:VOBM 08-26:extended centerline 1 right ticks
+Runways:VOBM 08-26:extended centerline 1 right vectoring
+Runways:VOBM 08-26:extended centerline 2
+Runways:VOBM 08-26:extended centerline 2 left base
+Runways:VOBM 08-26:extended centerline 2 left ticks
+Runways:VOBM 08-26:extended centerline 2 left vectoring
+Runways:VOBM 08-26:extended centerline 2 right base
+Runways:VOBM 08-26:extended centerline 2 right ticks
+Runways:VOBM 08-26:extended centerline 2 right vectoring
+Runways:VOBM 08-26:name
+Runways:VOBZ 08-26:centerline
+Runways:VOBZ 08-26:extended centerline 1
+Runways:VOBZ 08-26:extended centerline 1 left base
+Runways:VOBZ 08-26:extended centerline 1 left ticks
+Runways:VOBZ 08-26:extended centerline 1 left vectoring
+Runways:VOBZ 08-26:extended centerline 1 right base
+Runways:VOBZ 08-26:extended centerline 1 right ticks
+Runways:VOBZ 08-26:extended centerline 1 right vectoring
+Runways:VOBZ 08-26:extended centerline 2
+Runways:VOBZ 08-26:extended centerline 2 left base
+Runways:VOBZ 08-26:extended centerline 2 left ticks
+Runways:VOBZ 08-26:extended centerline 2 left vectoring
+Runways:VOBZ 08-26:extended centerline 2 right base
+Runways:VOBZ 08-26:extended centerline 2 right ticks
+Runways:VOBZ 08-26:extended centerline 2 right vectoring
+Runways:VOBZ 08-26:name
+Runways:VOCB 05-23:centerline
+Runways:VOCB 05-23:extended centerline 1
+Runways:VOCB 05-23:extended centerline 1 left base
+Runways:VOCB 05-23:extended centerline 1 left ticks
+Runways:VOCB 05-23:extended centerline 1 left vectoring
+Runways:VOCB 05-23:extended centerline 1 right base
+Runways:VOCB 05-23:extended centerline 1 right ticks
+Runways:VOCB 05-23:extended centerline 1 right vectoring
+Runways:VOCB 05-23:extended centerline 2
+Runways:VOCB 05-23:extended centerline 2 left base
+Runways:VOCB 05-23:extended centerline 2 left ticks
+Runways:VOCB 05-23:extended centerline 2 left vectoring
+Runways:VOCB 05-23:extended centerline 2 right base
+Runways:VOCB 05-23:extended centerline 2 right ticks
+Runways:VOCB 05-23:extended centerline 2 right vectoring
+Runways:VOCB 05-23:name
+Runways:VOCI 09-27:centerline
+Runways:VOCI 09-27:extended centerline 1
+Runways:VOCI 09-27:extended centerline 1 left base
+Runways:VOCI 09-27:extended centerline 1 left ticks
+Runways:VOCI 09-27:extended centerline 1 left vectoring
+Runways:VOCI 09-27:extended centerline 1 right base
+Runways:VOCI 09-27:extended centerline 1 right ticks
+Runways:VOCI 09-27:extended centerline 1 right vectoring
+Runways:VOCI 09-27:extended centerline 2
+Runways:VOCI 09-27:extended centerline 2 left base
+Runways:VOCI 09-27:extended centerline 2 left ticks
+Runways:VOCI 09-27:extended centerline 2 left vectoring
+Runways:VOCI 09-27:extended centerline 2 right base
+Runways:VOCI 09-27:extended centerline 2 right ticks
+Runways:VOCI 09-27:extended centerline 2 right vectoring
+Runways:VOCI 09-27:name
+Runways:VOCL 10-28:centerline
+Runways:VOCL 10-28:extended centerline 1
+Runways:VOCL 10-28:extended centerline 1 left base
+Runways:VOCL 10-28:extended centerline 1 left ticks
+Runways:VOCL 10-28:extended centerline 1 left vectoring
+Runways:VOCL 10-28:extended centerline 1 right base
+Runways:VOCL 10-28:extended centerline 1 right ticks
+Runways:VOCL 10-28:extended centerline 1 right vectoring
+Runways:VOCL 10-28:extended centerline 2
+Runways:VOCL 10-28:extended centerline 2 left base
+Runways:VOCL 10-28:extended centerline 2 left ticks
+Runways:VOCL 10-28:extended centerline 2 left vectoring
+Runways:VOCL 10-28:extended centerline 2 right base
+Runways:VOCL 10-28:extended centerline 2 right ticks
+Runways:VOCL 10-28:extended centerline 2 right vectoring
+Runways:VOCL 10-28:name
+Runways:VOCP 11-29:centerline
+Runways:VOCP 11-29:extended centerline 1
+Runways:VOCP 11-29:extended centerline 1 left base
+Runways:VOCP 11-29:extended centerline 1 left ticks
+Runways:VOCP 11-29:extended centerline 1 left vectoring
+Runways:VOCP 11-29:extended centerline 1 right base
+Runways:VOCP 11-29:extended centerline 1 right ticks
+Runways:VOCP 11-29:extended centerline 1 right vectoring
+Runways:VOCP 11-29:extended centerline 2
+Runways:VOCP 11-29:extended centerline 2 left base
+Runways:VOCP 11-29:extended centerline 2 left ticks
+Runways:VOCP 11-29:extended centerline 2 left vectoring
+Runways:VOCP 11-29:extended centerline 2 right base
+Runways:VOCP 11-29:extended centerline 2 right ticks
+Runways:VOCP 11-29:extended centerline 2 right vectoring
+Runways:VOCP 11-29:name
+Runways:VOGB 09-27:centerline
+Runways:VOGB 09-27:extended centerline 1
+Runways:VOGB 09-27:extended centerline 1 left base
+Runways:VOGB 09-27:extended centerline 1 left ticks
+Runways:VOGB 09-27:extended centerline 1 left vectoring
+Runways:VOGB 09-27:extended centerline 1 right base
+Runways:VOGB 09-27:extended centerline 1 right ticks
+Runways:VOGB 09-27:extended centerline 1 right vectoring
+Runways:VOGB 09-27:extended centerline 2
+Runways:VOGB 09-27:extended centerline 2 left base
+Runways:VOGB 09-27:extended centerline 2 left ticks
+Runways:VOGB 09-27:extended centerline 2 left vectoring
+Runways:VOGB 09-27:extended centerline 2 right base
+Runways:VOGB 09-27:extended centerline 2 right ticks
+Runways:VOGB 09-27:extended centerline 2 right vectoring
+Runways:VOGB 09-27:name
+Runways:VOGO 08-26:centerline
+Runways:VOGO 08-26:extended centerline 1
+Runways:VOGO 08-26:extended centerline 1 left base
+Runways:VOGO 08-26:extended centerline 1 left ticks
+Runways:VOGO 08-26:extended centerline 1 left vectoring
+Runways:VOGO 08-26:extended centerline 1 right base
+Runways:VOGO 08-26:extended centerline 1 right ticks
+Runways:VOGO 08-26:extended centerline 1 right vectoring
+Runways:VOGO 08-26:extended centerline 2
+Runways:VOGO 08-26:extended centerline 2 left base
+Runways:VOGO 08-26:extended centerline 2 left ticks
+Runways:VOGO 08-26:extended centerline 2 left vectoring
+Runways:VOGO 08-26:extended centerline 2 right base
+Runways:VOGO 08-26:extended centerline 2 right ticks
+Runways:VOGO 08-26:extended centerline 2 right vectoring
+Runways:VOGO 08-26:name
+Runways:VOHB 08-26:centerline
+Runways:VOHB 08-26:extended centerline 1
+Runways:VOHB 08-26:extended centerline 1 left base
+Runways:VOHB 08-26:extended centerline 1 left ticks
+Runways:VOHB 08-26:extended centerline 1 left vectoring
+Runways:VOHB 08-26:extended centerline 1 right base
+Runways:VOHB 08-26:extended centerline 1 right ticks
+Runways:VOHB 08-26:extended centerline 1 right vectoring
+Runways:VOHB 08-26:extended centerline 2
+Runways:VOHB 08-26:extended centerline 2 left base
+Runways:VOHB 08-26:extended centerline 2 left ticks
+Runways:VOHB 08-26:extended centerline 2 left vectoring
+Runways:VOHB 08-26:extended centerline 2 right base
+Runways:VOHB 08-26:extended centerline 2 right ticks
+Runways:VOHB 08-26:extended centerline 2 right vectoring
+Runways:VOHB 08-26:name
+Runways:VOHS 09L-27R:centerline
+Runways:VOHS 09L-27R:extended centerline 1
+Runways:VOHS 09L-27R:extended centerline 1 left base
+Runways:VOHS 09L-27R:extended centerline 1 left ticks
+Runways:VOHS 09L-27R:extended centerline 1 left vectoring
+Runways:VOHS 09L-27R:extended centerline 1 right base
+Runways:VOHS 09L-27R:extended centerline 1 right ticks
+Runways:VOHS 09L-27R:extended centerline 1 right vectoring
+Runways:VOHS 09L-27R:extended centerline 2
+Runways:VOHS 09L-27R:extended centerline 2 left base
+Runways:VOHS 09L-27R:extended centerline 2 left ticks
+Runways:VOHS 09L-27R:extended centerline 2 left vectoring
+Runways:VOHS 09L-27R:extended centerline 2 right base
+Runways:VOHS 09L-27R:extended centerline 2 right ticks
+Runways:VOHS 09L-27R:extended centerline 2 right vectoring
+Runways:VOHS 09L-27R:name
+Runways:VOHS 09R-27L:centerline
+Runways:VOHS 09R-27L:extended centerline 1
+Runways:VOHS 09R-27L:extended centerline 1 left base
+Runways:VOHS 09R-27L:extended centerline 1 left ticks
+Runways:VOHS 09R-27L:extended centerline 1 left vectoring
+Runways:VOHS 09R-27L:extended centerline 1 right base
+Runways:VOHS 09R-27L:extended centerline 1 right ticks
+Runways:VOHS 09R-27L:extended centerline 1 right vectoring
+Runways:VOHS 09R-27L:extended centerline 2
+Runways:VOHS 09R-27L:extended centerline 2 left base
+Runways:VOHS 09R-27L:extended centerline 2 left ticks
+Runways:VOHS 09R-27L:extended centerline 2 left vectoring
+Runways:VOHS 09R-27L:extended centerline 2 right base
+Runways:VOHS 09R-27L:extended centerline 2 right ticks
+Runways:VOHS 09R-27L:extended centerline 2 right vectoring
+Runways:VOHS 09R-27L:name
+Runways:VOHY 09-27:centerline
+Runways:VOHY 09-27:extended centerline 1
+Runways:VOHY 09-27:extended centerline 1 left base
+Runways:VOHY 09-27:extended centerline 1 left ticks
+Runways:VOHY 09-27:extended centerline 1 left vectoring
+Runways:VOHY 09-27:extended centerline 1 right base
+Runways:VOHY 09-27:extended centerline 1 right ticks
+Runways:VOHY 09-27:extended centerline 1 right vectoring
+Runways:VOHY 09-27:extended centerline 2
+Runways:VOHY 09-27:extended centerline 2 left base
+Runways:VOHY 09-27:extended centerline 2 left ticks
+Runways:VOHY 09-27:extended centerline 2 left vectoring
+Runways:VOHY 09-27:extended centerline 2 right base
+Runways:VOHY 09-27:extended centerline 2 right ticks
+Runways:VOHY 09-27:extended centerline 2 right vectoring
+Runways:VOHY 09-27:name
+Runways:VOJV 13-31:centerline
+Runways:VOJV 13-31:extended centerline 1
+Runways:VOJV 13-31:extended centerline 1 left base
+Runways:VOJV 13-31:extended centerline 1 left ticks
+Runways:VOJV 13-31:extended centerline 1 left vectoring
+Runways:VOJV 13-31:extended centerline 1 right base
+Runways:VOJV 13-31:extended centerline 1 right ticks
+Runways:VOJV 13-31:extended centerline 1 right vectoring
+Runways:VOJV 13-31:extended centerline 2
+Runways:VOJV 13-31:extended centerline 2 left base
+Runways:VOJV 13-31:extended centerline 2 left ticks
+Runways:VOJV 13-31:extended centerline 2 left vectoring
+Runways:VOJV 13-31:extended centerline 2 right base
+Runways:VOJV 13-31:extended centerline 2 right ticks
+Runways:VOJV 13-31:extended centerline 2 right vectoring
+Runways:VOJV 13-31:name
+Runways:VOKN 07-25:centerline
+Runways:VOKN 07-25:extended centerline 1
+Runways:VOKN 07-25:extended centerline 1 left base
+Runways:VOKN 07-25:extended centerline 1 left ticks
+Runways:VOKN 07-25:extended centerline 1 left vectoring
+Runways:VOKN 07-25:extended centerline 1 right base
+Runways:VOKN 07-25:extended centerline 1 right ticks
+Runways:VOKN 07-25:extended centerline 1 right vectoring
+Runways:VOKN 07-25:extended centerline 2
+Runways:VOKN 07-25:extended centerline 2 left base
+Runways:VOKN 07-25:extended centerline 2 left ticks
+Runways:VOKN 07-25:extended centerline 2 left vectoring
+Runways:VOKN 07-25:extended centerline 2 right base
+Runways:VOKN 07-25:extended centerline 2 right ticks
+Runways:VOKN 07-25:extended centerline 2 right vectoring
+Runways:VOKN 07-25:name
+Runways:VOMD 09-27:centerline
+Runways:VOMD 09-27:extended centerline 1
+Runways:VOMD 09-27:extended centerline 1 left base
+Runways:VOMD 09-27:extended centerline 1 left ticks
+Runways:VOMD 09-27:extended centerline 1 left vectoring
+Runways:VOMD 09-27:extended centerline 1 right base
+Runways:VOMD 09-27:extended centerline 1 right ticks
+Runways:VOMD 09-27:extended centerline 1 right vectoring
+Runways:VOMD 09-27:extended centerline 2
+Runways:VOMD 09-27:extended centerline 2 left base
+Runways:VOMD 09-27:extended centerline 2 left ticks
+Runways:VOMD 09-27:extended centerline 2 left vectoring
+Runways:VOMD 09-27:extended centerline 2 right base
+Runways:VOMD 09-27:extended centerline 2 right ticks
+Runways:VOMD 09-27:extended centerline 2 right vectoring
+Runways:VOMD 09-27:name
+Runways:VOML 06-24:centerline
+Runways:VOML 06-24:extended centerline 1
+Runways:VOML 06-24:extended centerline 1 left base
+Runways:VOML 06-24:extended centerline 1 left ticks
+Runways:VOML 06-24:extended centerline 1 left vectoring
+Runways:VOML 06-24:extended centerline 1 right base
+Runways:VOML 06-24:extended centerline 1 right ticks
+Runways:VOML 06-24:extended centerline 1 right vectoring
+Runways:VOML 06-24:extended centerline 2
+Runways:VOML 06-24:extended centerline 2 left base
+Runways:VOML 06-24:extended centerline 2 left ticks
+Runways:VOML 06-24:extended centerline 2 left vectoring
+Runways:VOML 06-24:extended centerline 2 right base
+Runways:VOML 06-24:extended centerline 2 right ticks
+Runways:VOML 06-24:extended centerline 2 right vectoring
+Runways:VOML 06-24:name
+Runways:VOMM 07-25:centerline
+Runways:VOMM 07-25:extended centerline 1
+Runways:VOMM 07-25:extended centerline 1 left base
+Runways:VOMM 07-25:extended centerline 1 left ticks
+Runways:VOMM 07-25:extended centerline 1 left vectoring
+Runways:VOMM 07-25:extended centerline 1 right base
+Runways:VOMM 07-25:extended centerline 1 right ticks
+Runways:VOMM 07-25:extended centerline 1 right vectoring
+Runways:VOMM 07-25:extended centerline 2
+Runways:VOMM 07-25:extended centerline 2 left base
+Runways:VOMM 07-25:extended centerline 2 left ticks
+Runways:VOMM 07-25:extended centerline 2 left vectoring
+Runways:VOMM 07-25:extended centerline 2 right base
+Runways:VOMM 07-25:extended centerline 2 right ticks
+Runways:VOMM 07-25:extended centerline 2 right vectoring
+Runways:VOMM 07-25:name
+Runways:VOMM 12-30:centerline
+Runways:VOMM 12-30:extended centerline 1
+Runways:VOMM 12-30:extended centerline 1 left base
+Runways:VOMM 12-30:extended centerline 1 left ticks
+Runways:VOMM 12-30:extended centerline 1 left vectoring
+Runways:VOMM 12-30:extended centerline 1 right base
+Runways:VOMM 12-30:extended centerline 1 right ticks
+Runways:VOMM 12-30:extended centerline 1 right vectoring
+Runways:VOMM 12-30:extended centerline 2
+Runways:VOMM 12-30:extended centerline 2 left base
+Runways:VOMM 12-30:extended centerline 2 left ticks
+Runways:VOMM 12-30:extended centerline 2 left vectoring
+Runways:VOMM 12-30:extended centerline 2 right base
+Runways:VOMM 12-30:extended centerline 2 right ticks
+Runways:VOMM 12-30:extended centerline 2 right vectoring
+Runways:VOMM 12-30:name
+Runways:VOMY 09-27:centerline
+Runways:VOMY 09-27:extended centerline 1
+Runways:VOMY 09-27:extended centerline 1 left base
+Runways:VOMY 09-27:extended centerline 1 left ticks
+Runways:VOMY 09-27:extended centerline 1 left vectoring
+Runways:VOMY 09-27:extended centerline 1 right base
+Runways:VOMY 09-27:extended centerline 1 right ticks
+Runways:VOMY 09-27:extended centerline 1 right vectoring
+Runways:VOMY 09-27:extended centerline 2
+Runways:VOMY 09-27:extended centerline 2 left base
+Runways:VOMY 09-27:extended centerline 2 left ticks
+Runways:VOMY 09-27:extended centerline 2 left vectoring
+Runways:VOMY 09-27:extended centerline 2 right base
+Runways:VOMY 09-27:extended centerline 2 right ticks
+Runways:VOMY 09-27:extended centerline 2 right vectoring
+Runways:VOMY 09-27:name
+Runways:VOND 10-28:centerline
+Runways:VOND 10-28:extended centerline 1
+Runways:VOND 10-28:extended centerline 1 left base
+Runways:VOND 10-28:extended centerline 1 left ticks
+Runways:VOND 10-28:extended centerline 1 left vectoring
+Runways:VOND 10-28:extended centerline 1 right base
+Runways:VOND 10-28:extended centerline 1 right ticks
+Runways:VOND 10-28:extended centerline 1 right vectoring
+Runways:VOND 10-28:extended centerline 2
+Runways:VOND 10-28:extended centerline 2 left base
+Runways:VOND 10-28:extended centerline 2 left ticks
+Runways:VOND 10-28:extended centerline 2 left vectoring
+Runways:VOND 10-28:extended centerline 2 right base
+Runways:VOND 10-28:extended centerline 2 right ticks
+Runways:VOND 10-28:extended centerline 2 right vectoring
+Runways:VOND 10-28:name
+Runways:VOPB 04-22:centerline
+Runways:VOPB 04-22:extended centerline 1
+Runways:VOPB 04-22:extended centerline 1 left base
+Runways:VOPB 04-22:extended centerline 1 left ticks
+Runways:VOPB 04-22:extended centerline 1 left vectoring
+Runways:VOPB 04-22:extended centerline 1 right base
+Runways:VOPB 04-22:extended centerline 1 right ticks
+Runways:VOPB 04-22:extended centerline 1 right vectoring
+Runways:VOPB 04-22:extended centerline 2
+Runways:VOPB 04-22:extended centerline 2 left base
+Runways:VOPB 04-22:extended centerline 2 left ticks
+Runways:VOPB 04-22:extended centerline 2 left vectoring
+Runways:VOPB 04-22:extended centerline 2 right base
+Runways:VOPB 04-22:extended centerline 2 right ticks
+Runways:VOPB 04-22:extended centerline 2 right vectoring
+Runways:VOPB 04-22:name
+Runways:VOPC 07-25:centerline
+Runways:VOPC 07-25:extended centerline 1
+Runways:VOPC 07-25:extended centerline 1 left base
+Runways:VOPC 07-25:extended centerline 1 left ticks
+Runways:VOPC 07-25:extended centerline 1 left vectoring
+Runways:VOPC 07-25:extended centerline 1 right base
+Runways:VOPC 07-25:extended centerline 1 right ticks
+Runways:VOPC 07-25:extended centerline 1 right vectoring
+Runways:VOPC 07-25:extended centerline 2
+Runways:VOPC 07-25:extended centerline 2 left base
+Runways:VOPC 07-25:extended centerline 2 left ticks
+Runways:VOPC 07-25:extended centerline 2 left vectoring
+Runways:VOPC 07-25:extended centerline 2 right base
+Runways:VOPC 07-25:extended centerline 2 right ticks
+Runways:VOPC 07-25:extended centerline 2 right vectoring
+Runways:VOPC 07-25:name
+Runways:VOPN 09-27:centerline
+Runways:VOPN 09-27:extended centerline 1
+Runways:VOPN 09-27:extended centerline 1 left base
+Runways:VOPN 09-27:extended centerline 1 left ticks
+Runways:VOPN 09-27:extended centerline 1 left vectoring
+Runways:VOPN 09-27:extended centerline 1 right base
+Runways:VOPN 09-27:extended centerline 1 right ticks
+Runways:VOPN 09-27:extended centerline 1 right vectoring
+Runways:VOPN 09-27:extended centerline 2
+Runways:VOPN 09-27:extended centerline 2 left base
+Runways:VOPN 09-27:extended centerline 2 left ticks
+Runways:VOPN 09-27:extended centerline 2 left vectoring
+Runways:VOPN 09-27:extended centerline 2 right base
+Runways:VOPN 09-27:extended centerline 2 right ticks
+Runways:VOPN 09-27:extended centerline 2 right vectoring
+Runways:VOPN 09-27:name
+Runways:VORY 05-23:centerline
+Runways:VORY 05-23:extended centerline 1
+Runways:VORY 05-23:extended centerline 1 left base
+Runways:VORY 05-23:extended centerline 1 left ticks
+Runways:VORY 05-23:extended centerline 1 left vectoring
+Runways:VORY 05-23:extended centerline 1 right base
+Runways:VORY 05-23:extended centerline 1 right ticks
+Runways:VORY 05-23:extended centerline 1 right vectoring
+Runways:VORY 05-23:extended centerline 2
+Runways:VORY 05-23:extended centerline 2 left base
+Runways:VORY 05-23:extended centerline 2 left ticks
+Runways:VORY 05-23:extended centerline 2 left vectoring
+Runways:VORY 05-23:extended centerline 2 right base
+Runways:VORY 05-23:extended centerline 2 right ticks
+Runways:VORY 05-23:extended centerline 2 right vectoring
+Runways:VORY 05-23:name
+Runways:VOSM 04-22:centerline
+Runways:VOSM 04-22:extended centerline 1
+Runways:VOSM 04-22:extended centerline 1 left base
+Runways:VOSM 04-22:extended centerline 1 left ticks
+Runways:VOSM 04-22:extended centerline 1 left vectoring
+Runways:VOSM 04-22:extended centerline 1 right base
+Runways:VOSM 04-22:extended centerline 1 right ticks
+Runways:VOSM 04-22:extended centerline 1 right vectoring
+Runways:VOSM 04-22:extended centerline 2
+Runways:VOSM 04-22:extended centerline 2 left base
+Runways:VOSM 04-22:extended centerline 2 left ticks
+Runways:VOSM 04-22:extended centerline 2 left vectoring
+Runways:VOSM 04-22:extended centerline 2 right base
+Runways:VOSM 04-22:extended centerline 2 right ticks
+Runways:VOSM 04-22:extended centerline 2 right vectoring
+Runways:VOSM 04-22:name
+Runways:VOTK 10-28:centerline
+Runways:VOTK 10-28:extended centerline 1
+Runways:VOTK 10-28:extended centerline 1 left base
+Runways:VOTK 10-28:extended centerline 1 left ticks
+Runways:VOTK 10-28:extended centerline 1 left vectoring
+Runways:VOTK 10-28:extended centerline 1 right base
+Runways:VOTK 10-28:extended centerline 1 right ticks
+Runways:VOTK 10-28:extended centerline 1 right vectoring
+Runways:VOTK 10-28:extended centerline 2
+Runways:VOTK 10-28:extended centerline 2 left base
+Runways:VOTK 10-28:extended centerline 2 left ticks
+Runways:VOTK 10-28:extended centerline 2 left vectoring
+Runways:VOTK 10-28:extended centerline 2 right base
+Runways:VOTK 10-28:extended centerline 2 right ticks
+Runways:VOTK 10-28:extended centerline 2 right vectoring
+Runways:VOTK 10-28:name
+Runways:VOTP 08-26:centerline
+Runways:VOTP 08-26:extended centerline 1
+Runways:VOTP 08-26:extended centerline 1 left base
+Runways:VOTP 08-26:extended centerline 1 left ticks
+Runways:VOTP 08-26:extended centerline 1 left vectoring
+Runways:VOTP 08-26:extended centerline 1 right base
+Runways:VOTP 08-26:extended centerline 1 right ticks
+Runways:VOTP 08-26:extended centerline 1 right vectoring
+Runways:VOTP 08-26:extended centerline 2
+Runways:VOTP 08-26:extended centerline 2 left base
+Runways:VOTP 08-26:extended centerline 2 left ticks
+Runways:VOTP 08-26:extended centerline 2 left vectoring
+Runways:VOTP 08-26:extended centerline 2 right base
+Runways:VOTP 08-26:extended centerline 2 right ticks
+Runways:VOTP 08-26:extended centerline 2 right vectoring
+Runways:VOTP 08-26:name
+Runways:VOTR 09-27:centerline
+Runways:VOTR 09-27:extended centerline 1
+Runways:VOTR 09-27:extended centerline 1 left base
+Runways:VOTR 09-27:extended centerline 1 left ticks
+Runways:VOTR 09-27:extended centerline 1 left vectoring
+Runways:VOTR 09-27:extended centerline 1 right base
+Runways:VOTR 09-27:extended centerline 1 right ticks
+Runways:VOTR 09-27:extended centerline 1 right vectoring
+Runways:VOTR 09-27:extended centerline 2
+Runways:VOTR 09-27:extended centerline 2 left base
+Runways:VOTR 09-27:extended centerline 2 left ticks
+Runways:VOTR 09-27:extended centerline 2 left vectoring
+Runways:VOTR 09-27:extended centerline 2 right base
+Runways:VOTR 09-27:extended centerline 2 right ticks
+Runways:VOTR 09-27:extended centerline 2 right vectoring
+Runways:VOTR 09-27:name
+Runways:VOTV 14-32:centerline
+Runways:VOTV 14-32:extended centerline 1
+Runways:VOTV 14-32:extended centerline 1 left base
+Runways:VOTV 14-32:extended centerline 1 left ticks
+Runways:VOTV 14-32:extended centerline 1 left vectoring
+Runways:VOTV 14-32:extended centerline 1 right base
+Runways:VOTV 14-32:extended centerline 1 right ticks
+Runways:VOTV 14-32:extended centerline 1 right vectoring
+Runways:VOTV 14-32:extended centerline 2
+Runways:VOTV 14-32:extended centerline 2 left base
+Runways:VOTV 14-32:extended centerline 2 left ticks
+Runways:VOTV 14-32:extended centerline 2 left vectoring
+Runways:VOTV 14-32:extended centerline 2 right base
+Runways:VOTV 14-32:extended centerline 2 right ticks
+Runways:VOTV 14-32:extended centerline 2 right vectoring
+Runways:VOTV 14-32:name
+Runways:VOVZ 05-23:centerline
+Runways:VOVZ 05-23:extended centerline 1
+Runways:VOVZ 05-23:extended centerline 1 left base
+Runways:VOVZ 05-23:extended centerline 1 left ticks
+Runways:VOVZ 05-23:extended centerline 1 left vectoring
+Runways:VOVZ 05-23:extended centerline 1 right base
+Runways:VOVZ 05-23:extended centerline 1 right ticks
+Runways:VOVZ 05-23:extended centerline 1 right vectoring
+Runways:VOVZ 05-23:extended centerline 2
+Runways:VOVZ 05-23:extended centerline 2 left base
+Runways:VOVZ 05-23:extended centerline 2 left ticks
+Runways:VOVZ 05-23:extended centerline 2 left vectoring
+Runways:VOVZ 05-23:extended centerline 2 right base
+Runways:VOVZ 05-23:extended centerline 2 right ticks
+Runways:VOVZ 05-23:extended centerline 2 right vectoring
+Runways:VOVZ 05-23:name
+Runways:VOVZ 10-28:centerline
+Runways:VOVZ 10-28:extended centerline 1
+Runways:VOVZ 10-28:extended centerline 1 left base
+Runways:VOVZ 10-28:extended centerline 1 left ticks
+Runways:VOVZ 10-28:extended centerline 1 left vectoring
+Runways:VOVZ 10-28:extended centerline 1 right base
+Runways:VOVZ 10-28:extended centerline 1 right ticks
+Runways:VOVZ 10-28:extended centerline 1 right vectoring
+Runways:VOVZ 10-28:extended centerline 2
+Runways:VOVZ 10-28:extended centerline 2 left base
+Runways:VOVZ 10-28:extended centerline 2 left ticks
+Runways:VOVZ 10-28:extended centerline 2 left vectoring
+Runways:VOVZ 10-28:extended centerline 2 right base
+Runways:VOVZ 10-28:extended centerline 2 right ticks
+Runways:VOVZ 10-28:extended centerline 2 right vectoring
+Runways:VOVZ 10-28:name
+VORs:AAT:symbol
+VORs:AAU:symbol
+VORs:BAC:symbol
+VORs:BBB:symbol
+VORs:BBG:symbol
+VORs:BBI:symbol
+VORs:BBM:symbol
+VORs:BBZ:symbol
+VORs:BGO:symbol
+VORs:BIA:symbol
+VORs:BIB:symbol
+VORs:CCB:symbol
+VORs:CIA:symbol
+VORs:CIB:symbol
+VORs:CLC:symbol
+VORs:CNI:symbol
+VORs:GGB:symbol
+VORs:GGO:symbol
+VORs:HBL:symbol
+VORs:HGU:symbol
+VORs:HHY:symbol
+VORs:HIA:symbol
+VORs:KAT:symbol
+VORs:KKP:symbol
+VORs:KNR:symbol
+VORs:MDI:symbol
+VORs:MLE:symbol
+VORs:MLH:symbol
+VORs:MML:symbol
+VORs:MMV:symbol
+VORs:MSR:symbol
+VORs:MTL:symbol
+VORs:NDD:symbol
+VORs:NPT:symbol
+VORs:PPB:symbol
+VORs:PPN:symbol
+VORs:PTN:symbol
+VORs:RJM:symbol
+VORs:RML:symbol
+VORs:SRD:symbol
+VORs:TDE:symbol
+VORs:TGU:symbol
+VORs:TTP:symbol
+VORs:TTR:symbol
+VORs:TVM:symbol
+VORs:VSP:symbol
+VORs:VVZ:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:India vACC
+WINDOWAREA:13.169260:77.603455:13.281027:77.826433
+PLUGIN:EuroScope History Trails:HistoryTrailAntiAlias:1
+PLUGIN:EuroScope History Trails:HistoryTrailColour:255,130,20
+PLUGIN:EuroScope History Trails:HistoryTrailDegrade:1
+PLUGIN:EuroScope History Trails:HistoryTrailDisplay:1
+PLUGIN:EuroScope History Trails:HistoryTrailDotSize:6
+PLUGIN:EuroScope History Trails:HistoryTrailFade:1
+PLUGIN:EuroScope History Trails:HistoryTrailLength:15
+PLUGIN:EuroScope History Trails:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:EuroScope History Trails:HistoryTrailMinAltitudeFilter:0
+PLUGIN:EuroScope History Trails:HistoryTrailType:0

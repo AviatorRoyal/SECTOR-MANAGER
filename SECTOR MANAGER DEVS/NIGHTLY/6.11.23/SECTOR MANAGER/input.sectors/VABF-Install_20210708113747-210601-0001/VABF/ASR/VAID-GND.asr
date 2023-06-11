@@ -1,0 +1,47 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VAID:name
+Airports:VAID:symbol
+Free Text:VAID GroundLayout\1:freetext
+Free Text:VAID GroundLayout\10:freetext
+Free Text:VAID GroundLayout\11:freetext
+Free Text:VAID GroundLayout\2:freetext
+Free Text:VAID GroundLayout\3:freetext
+Free Text:VAID GroundLayout\4:freetext
+Free Text:VAID GroundLayout\5:freetext
+Free Text:VAID GroundLayout\6:freetext
+Free Text:VAID GroundLayout\7:freetext
+Free Text:VAID GroundLayout\8:freetext
+Free Text:VAID GroundLayout\9:freetext
+Free Text:VAID GroundLayout\A:freetext
+Free Text:VAID GroundLayout\B:freetext
+Free Text:VAID GroundLayout\B1:freetext
+Free Text:VAID GroundLayout\C:freetext
+Free Text:VAID GroundLayout\C1:freetext
+Free Text:VAID GroundLayout\D:freetext
+Free Text:VAID GroundLayout\D1:freetext
+Free Text:VAID GroundLayout\E:freetext
+Free Text:VAID GroundLayout\F:freetext
+Free Text:VAID GroundLayout\Isolation Bay:freetext
+Geo:VAID Groundlayout:
+Regions:VAID GroundLayout:polygon
+VORs:IID:frequency
+VORs:IID:name
+VORs:IID:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:20.00000
+TAGFAMILY:India vACC
+WINDOWAREA:22.710657:75.775412:22.730931:75.816673
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VAID

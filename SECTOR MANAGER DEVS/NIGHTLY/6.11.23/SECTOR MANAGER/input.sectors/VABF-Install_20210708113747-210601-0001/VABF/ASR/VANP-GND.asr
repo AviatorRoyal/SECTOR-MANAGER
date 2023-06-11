@@ -1,0 +1,54 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:VANP:name
+Airports:VANP:symbol
+Free Text:VANP GroundLayout\1:freetext
+Free Text:VANP GroundLayout\10:freetext
+Free Text:VANP GroundLayout\11:freetext
+Free Text:VANP GroundLayout\12:freetext
+Free Text:VANP GroundLayout\14:freetext
+Free Text:VANP GroundLayout\15:freetext
+Free Text:VANP GroundLayout\16:freetext
+Free Text:VANP GroundLayout\17:freetext
+Free Text:VANP GroundLayout\18:freetext
+Free Text:VANP GroundLayout\2:freetext
+Free Text:VANP GroundLayout\3:freetext
+Free Text:VANP GroundLayout\4:freetext
+Free Text:VANP GroundLayout\5:freetext
+Free Text:VANP GroundLayout\6:freetext
+Free Text:VANP GroundLayout\6A:freetext
+Free Text:VANP GroundLayout\6B:freetext
+Free Text:VANP GroundLayout\7:freetext
+Free Text:VANP GroundLayout\8:freetext
+Free Text:VANP GroundLayout\9:freetext
+Free Text:VANP GroundLayout\A:freetext
+Free Text:VANP GroundLayout\B1:freetext
+Free Text:VANP GroundLayout\B2:freetext
+Free Text:VANP GroundLayout\C1:freetext
+Free Text:VANP GroundLayout\C1:freetext
+Free Text:VANP GroundLayout\C2:freetext
+Free Text:VANP GroundLayout\IPB:freetext
+Free Text:VANP GroundLayout\L:freetext
+Free Text:VANP GroundLayout\Military Apron:freetext
+Geo:VANP Groundlayout:
+Regions:VANP GroundLayout:polygon
+VORs:NNP:frequency
+VORs:NNP:name
+VORs:NNP:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:310.00000
+TAGFAMILY:India vACC
+WINDOWAREA:21.085060:79.025331:21.105334:79.066592
+PLUGIN:vSMR:ActiveProfile:India vACC
+PLUGIN:vSMR:Airport:VANP
